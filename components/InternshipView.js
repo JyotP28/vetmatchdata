@@ -33,8 +33,12 @@ export default function InternshipView({ specialtyData }) {
 
   return (
     <div>
+      {/* --- Explanation Paragraph --- */}
+      <p style={{ maxWidth: '800px', margin: '0 auto 2rem auto', padding: '1rem', backgroundColor: 'rgba(230, 240, 230, 0.5)', borderRadius: '8px', lineHeight: '1.6' }}>
+        This dashboard visualizes trends for individual internship specialties. Select a specialty to see the year-over-year trend in applicants versus positions filled. The Match Rate % is calculated as (Positions Matched / Total Applicants).
+      </p>
+
       <div className={styles.controlsContainer}>
-        {/* FIX: Added 'selectGroup' className */}
         <div className={styles.selectGroup}>
           <label htmlFor="specialty-select" className={styles.selectLabel}>Select an Internship:</label>
           <select id="specialty-select" value={selectedSpecialty} onChange={e => setSelectedSpecialty(e.target.value)} className={styles.selectDropdown}>
