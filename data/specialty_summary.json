@@ -1,0 +1,4994 @@
+[
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 3,
+    "Total_Applicants": 77,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Anesthesiology",
+    "Positions_Offered": 5,
+    "Total_Applicants": 19,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Avian",
+    "Positions_Offered": 3,
+    "Total_Applicants": 37,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 12,
+    "Total_Applicants": 61,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 1,
+    "Total_Applicants": 4,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Community Practice",
+    "Positions_Offered": 2,
+    "Total_Applicants": 10,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 6,
+    "Total_Applicants": 27,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 8,
+    "Total_Applicants": 49,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 57,
+    "Total_Applicants": 243,
+    "Positions_Matched": 25
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 61,
+    "Total_Applicants": 260,
+    "Positions_Matched": 55
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Farm Practice/Production Animal Medicine",
+    "Positions_Offered": 2,
+    "Total_Applicants": 14,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Food Animal",
+    "Positions_Offered": 8,
+    "Total_Applicants": 18,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Surgery",
+    "Positions_Offered": 5,
+    "Total_Applicants": 93,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Neurology",
+    "Positions_Offered": 40,
+    "Total_Applicants": 98,
+    "Positions_Matched": 22
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Oncology",
+    "Positions_Offered": 30,
+    "Total_Applicants": 119,
+    "Positions_Matched": 19
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Other",
+    "Positions_Offered": 15,
+    "Total_Applicants": 134,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Equine",
+    "Positions_Offered": 24,
+    "Total_Applicants": 200,
+    "Positions_Matched": 16
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Large Animal",
+    "Positions_Offered": 32,
+    "Total_Applicants": 147,
+    "Positions_Matched": 25
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Mixed Animal",
+    "Positions_Offered": 8,
+    "Total_Applicants": 26,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Small Animal",
+    "Positions_Offered": 994,
+    "Total_Applicants": 1289,
+    "Positions_Matched": 830
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 22,
+    "Total_Applicants": 70,
+    "Positions_Matched": 14
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Internal Medicine",
+    "Positions_Offered": 37,
+    "Total_Applicants": 138,
+    "Positions_Matched": 17
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Surgery",
+    "Positions_Offered": 146,
+    "Total_Applicants": 361,
+    "Positions_Matched": 117
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 1,
+    "Total_Applicants": 3,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 2,
+    "Total_Applicants": 15,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "American Board of Veterinary Practitioners",
+    "Positions_Offered": 6,
+    "Total_Applicants": 23,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Anesthesia",
+    "Positions_Offered": 21,
+    "Total_Applicants": 51,
+    "Positions_Matched": 18
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Behavior",
+    "Positions_Offered": 2,
+    "Total_Applicants": 11,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 15,
+    "Total_Applicants": 91,
+    "Positions_Matched": 15
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 1,
+    "Total_Applicants": 8,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Dentistry",
+    "Positions_Offered": 8,
+    "Total_Applicants": 20,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 12,
+    "Total_Applicants": 29,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 28,
+    "Total_Applicants": 102,
+    "Positions_Matched": 28
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 86,
+    "Total_Applicants": 112,
+    "Positions_Matched": 62
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Medicine",
+    "Positions_Offered": 10,
+    "Total_Applicants": 56,
+    "Positions_Matched": 9
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Surgery",
+    "Positions_Offered": 11,
+    "Total_Applicants": 111,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 11,
+    "Total_Applicants": 112,
+    "Positions_Matched": 10
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Food Animal Medicine and Surgery",
+    "Positions_Offered": 4,
+    "Total_Applicants": 23,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Herd Mediicne/Agricultural Practices",
+    "Positions_Offered": 4,
+    "Total_Applicants": 14,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Laboratory Animal/Comparative Medicine",
+    "Positions_Offered": 56,
+    "Total_Applicants": 61,
+    "Positions_Matched": 31
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Large Animal",
+    "Positions_Offered": 23,
+    "Total_Applicants": 70,
+    "Positions_Matched": 20
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Small Animal",
+    "Positions_Offered": 64,
+    "Total_Applicants": 116,
+    "Positions_Matched": 54
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Neurology/Neurosurgery",
+    "Positions_Offered": 27,
+    "Total_Applicants": 76,
+    "Positions_Matched": 25
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Oncology",
+    "Positions_Offered": 27,
+    "Total_Applicants": 77,
+    "Positions_Matched": 25
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Radiation Oncology/Therapy",
+    "Positions_Offered": 6,
+    "Total_Applicants": 19,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 3,
+    "Total_Applicants": 6,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 4,
+    "Total_Applicants": 10,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Large Animal",
+    "Positions_Offered": 17,
+    "Total_Applicants": 117,
+    "Positions_Matched": 17
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Small Animal",
+    "Positions_Offered": 57,
+    "Total_Applicants": 282,
+    "Positions_Matched": 56
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Theriogenology",
+    "Positions_Offered": 8,
+    "Total_Applicants": 33,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Specialty": "Zoological Medicine",
+    "Positions_Offered": 8,
+    "Total_Applicants": 105,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 3,
+    "Total_Applicants": 29,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Anesthesiology",
+    "Positions_Offered": 9,
+    "Total_Applicants": 52,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Avian",
+    "Positions_Offered": 2,
+    "Total_Applicants": 16,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 8,
+    "Total_Applicants": 34,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 1,
+    "Total_Applicants": 4,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Community Practice",
+    "Positions_Offered": 1,
+    "Total_Applicants": 2,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 6,
+    "Total_Applicants": 7,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 10,
+    "Total_Applicants": 44,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 54,
+    "Total_Applicants": 122,
+    "Positions_Matched": 22
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Equine",
+    "Positions_Offered": 2,
+    "Total_Applicants": 16,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 60,
+    "Total_Applicants": 198,
+    "Positions_Matched": 45
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Farm Practice/Production Animal Medicine",
+    "Positions_Offered": 5,
+    "Total_Applicants": 32,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Food Animal",
+    "Positions_Offered": 9,
+    "Total_Applicants": 12,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Surgery",
+    "Positions_Offered": 5,
+    "Total_Applicants": 65,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Neurology",
+    "Positions_Offered": 46,
+    "Total_Applicants": 64,
+    "Positions_Matched": 23
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Oncology",
+    "Positions_Offered": 25,
+    "Total_Applicants": 54,
+    "Positions_Matched": 13
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Other",
+    "Positions_Offered": 14,
+    "Total_Applicants": 82,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Equine",
+    "Positions_Offered": 23,
+    "Total_Applicants": 100,
+    "Positions_Matched": 14
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Large Animal",
+    "Positions_Offered": 26,
+    "Total_Applicants": 99,
+    "Positions_Matched": 16
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Mixed Animal",
+    "Positions_Offered": 6,
+    "Total_Applicants": 10,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Small Animal",
+    "Positions_Offered": 1016,
+    "Total_Applicants": 1028,
+    "Positions_Matched": 753
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 20,
+    "Total_Applicants": 42,
+    "Positions_Matched": 14
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Internal Medicine",
+    "Positions_Offered": 40,
+    "Total_Applicants": 76,
+    "Positions_Matched": 18
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Surgery",
+    "Positions_Offered": 162,
+    "Total_Applicants": 257,
+    "Positions_Matched": 100
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 5,
+    "Total_Applicants": 25,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 2,
+    "Total_Applicants": 8,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "American Board of Veterinary Practitioners",
+    "Positions_Offered": 3,
+    "Total_Applicants": 4,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Anesthesia",
+    "Positions_Offered": 22,
+    "Total_Applicants": 42,
+    "Positions_Matched": 17
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Behavior",
+    "Positions_Offered": 2,
+    "Total_Applicants": 3,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 12,
+    "Total_Applicants": 65,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 4,
+    "Total_Applicants": 6,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Dentistry",
+    "Positions_Offered": 8,
+    "Total_Applicants": 17,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 15,
+    "Total_Applicants": 19,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 20,
+    "Total_Applicants": 83,
+    "Positions_Matched": 20
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 74,
+    "Total_Applicants": 109,
+    "Positions_Matched": 61
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Medicine",
+    "Positions_Offered": 7,
+    "Total_Applicants": 38,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Surgery",
+    "Positions_Offered": 9,
+    "Total_Applicants": 101,
+    "Positions_Matched": 9
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 10,
+    "Total_Applicants": 97,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Food Animal Medicine and Surgery",
+    "Positions_Offered": 6,
+    "Total_Applicants": 13,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Herd Mediicne/Agricultural Practices",
+    "Positions_Offered": 4,
+    "Total_Applicants": 12,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Laboratory Animal/Comparative Medicine",
+    "Positions_Offered": 54,
+    "Total_Applicants": 56,
+    "Positions_Matched": 36
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Large Animal",
+    "Positions_Offered": 19,
+    "Total_Applicants": 58,
+    "Positions_Matched": 16
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Small Animal",
+    "Positions_Offered": 65,
+    "Total_Applicants": 107,
+    "Positions_Matched": 54
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Neurology/Neurosurgery",
+    "Positions_Offered": 26,
+    "Total_Applicants": 59,
+    "Positions_Matched": 26
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Oncology",
+    "Positions_Offered": 22,
+    "Total_Applicants": 64,
+    "Positions_Matched": 22
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Radiation Oncology/Therapy",
+    "Positions_Offered": 9,
+    "Total_Applicants": 12,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 3,
+    "Total_Applicants": 1,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 5,
+    "Total_Applicants": 8,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Large Animal",
+    "Positions_Offered": 14,
+    "Total_Applicants": 97,
+    "Positions_Matched": 14
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Small Animal",
+    "Positions_Offered": 50,
+    "Total_Applicants": 254,
+    "Positions_Matched": 50
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Theriogenology",
+    "Positions_Offered": 11,
+    "Total_Applicants": 21,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Specialty": "Zoological Medicine",
+    "Positions_Offered": 8,
+    "Total_Applicants": 116,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Agricultural Practices",
+    "Positions_Offered": 2,
+    "Total_Applicants": 11,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 3,
+    "Total_Applicants": 7,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Anesthesiology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 13,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Avian",
+    "Positions_Offered": 20,
+    "Total_Applicants": 25,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 10,
+    "Total_Applicants": 54,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 3,
+    "Total_Applicants": 8,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Community Practice",
+    "Positions_Offered": 13,
+    "Total_Applicants": 19,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 13,
+    "Total_Applicants": 10,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 9,
+    "Total_Applicants": 52,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 101,
+    "Total_Applicants": 83,
+    "Positions_Matched": 17
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Equine",
+    "Positions_Offered": 26,
+    "Total_Applicants": 90,
+    "Positions_Matched": 18
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 62,
+    "Total_Applicants": 192,
+    "Positions_Matched": 50
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Farm Practice/Production Animal Medicine",
+    "Positions_Offered": 4,
+    "Total_Applicants": 14,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Food Animal",
+    "Positions_Offered": 15,
+    "Total_Applicants": 22,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Large Animal",
+    "Positions_Offered": 22,
+    "Total_Applicants": 85,
+    "Positions_Matched": 13
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Rotating (Diversity)",
+    "Positions_Offered": 1,
+    "Total_Applicants": 2,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Surgery",
+    "Positions_Offered": 7,
+    "Total_Applicants": 50,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Neurology",
+    "Positions_Offered": 45,
+    "Total_Applicants": 49,
+    "Positions_Matched": 24
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Oncology",
+    "Positions_Offered": 31,
+    "Total_Applicants": 133,
+    "Positions_Matched": 17
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Other",
+    "Positions_Offered": 14,
+    "Total_Applicants": 27,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 21,
+    "Total_Applicants": 27,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Internal Medicine",
+    "Positions_Offered": 48,
+    "Total_Applicants": 57,
+    "Positions_Matched": 10
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Small Animal",
+    "Positions_Offered": 1078,
+    "Total_Applicants": 844,
+    "Positions_Matched": 653
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Rotating (Diversity)",
+    "Positions_Offered": 14,
+    "Total_Applicants": 47,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Surgery",
+    "Positions_Offered": 155,
+    "Total_Applicants": 216,
+    "Positions_Matched": 101
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 6,
+    "Total_Applicants": 8,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 1,
+    "Total_Applicants": 6,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "American Board of Veterinary Practitioners",
+    "Positions_Offered": 1,
+    "Total_Applicants": 7,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Anesthesia",
+    "Positions_Offered": 24,
+    "Total_Applicants": 26,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Avian Medicine",
+    "Positions_Offered": 2,
+    "Total_Applicants": 2,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Behavior",
+    "Positions_Offered": 2,
+    "Total_Applicants": 4,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 22,
+    "Total_Applicants": 78,
+    "Positions_Matched": 22
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 1,
+    "Total_Applicants": 2,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Dentistry",
+    "Positions_Offered": 5,
+    "Total_Applicants": 13,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 17,
+    "Total_Applicants": 16,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 21,
+    "Total_Applicants": 84,
+    "Positions_Matched": 21
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 68,
+    "Total_Applicants": 79,
+    "Positions_Matched": 51
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Medicine",
+    "Positions_Offered": 12,
+    "Total_Applicants": 38,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Surgery",
+    "Positions_Offered": 7,
+    "Total_Applicants": 84,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 4,
+    "Total_Applicants": 95,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Food Animal Medicine and Surgery",
+    "Positions_Offered": 6,
+    "Total_Applicants": 9,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Herd Mediicne/Agricultural Practices",
+    "Positions_Offered": 3,
+    "Total_Applicants": 11,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Laboratory Animal/Comparative Medicine",
+    "Positions_Offered": 57,
+    "Total_Applicants": 37,
+    "Positions_Matched": 33
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Large Animal",
+    "Positions_Offered": 15,
+    "Total_Applicants": 47,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Small Animal",
+    "Positions_Offered": 66,
+    "Total_Applicants": 100,
+    "Positions_Matched": 56
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Neurology/Neurosurgery",
+    "Positions_Offered": 25,
+    "Total_Applicants": 59,
+    "Positions_Matched": 25
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Oncology",
+    "Positions_Offered": 28,
+    "Total_Applicants": 65,
+    "Positions_Matched": 27
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Radiation Oncology/Therapy",
+    "Positions_Offered": 8,
+    "Total_Applicants": 10,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 2,
+    "Total_Applicants": 6,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 10,
+    "Total_Applicants": 14,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Large Animal",
+    "Positions_Offered": 13,
+    "Total_Applicants": 85,
+    "Positions_Matched": 13
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Small Animal",
+    "Positions_Offered": 54,
+    "Total_Applicants": 238,
+    "Positions_Matched": 53
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Theriogenology",
+    "Positions_Offered": 11,
+    "Total_Applicants": 10,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Specialty": "Zoological Medicine",
+    "Positions_Offered": 9,
+    "Total_Applicants": 106,
+    "Positions_Matched": 9
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Agricultural Practices",
+    "Positions_Offered": 2,
+    "Total_Applicants": 8,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 1,
+    "Total_Applicants": 12,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Anesthesiology",
+    "Positions_Offered": 5,
+    "Total_Applicants": 12,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Avian",
+    "Positions_Offered": 15,
+    "Total_Applicants": 36,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 11,
+    "Total_Applicants": 46,
+    "Positions_Matched": 10
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 1,
+    "Total_Applicants": 1,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Community Practice",
+    "Positions_Offered": 17,
+    "Total_Applicants": 32,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 14,
+    "Total_Applicants": 12,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 11,
+    "Total_Applicants": 69,
+    "Positions_Matched": 9
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 128,
+    "Total_Applicants": 186,
+    "Positions_Matched": 42
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Equine",
+    "Positions_Offered": 32,
+    "Total_Applicants": 74,
+    "Positions_Matched": 17
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 53,
+    "Total_Applicants": 216,
+    "Positions_Matched": 43
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Farm Practice/Production Animal Medicine",
+    "Positions_Offered": 1,
+    "Total_Applicants": 8,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Food Animal",
+    "Positions_Offered": 12,
+    "Total_Applicants": 17,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Large Animal",
+    "Positions_Offered": 20,
+    "Total_Applicants": 70,
+    "Positions_Matched": 13
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Rotating (Diversity)",
+    "Positions_Offered": 1,
+    "Total_Applicants": 6,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Surgery",
+    "Positions_Offered": 3,
+    "Total_Applicants": 33,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Neurology",
+    "Positions_Offered": 54,
+    "Total_Applicants": 57,
+    "Positions_Matched": 20
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Oncology",
+    "Positions_Offered": 39,
+    "Total_Applicants": 64,
+    "Positions_Matched": 18
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Ophthalmology",
+    "Positions_Offered": 1,
+    "Total_Applicants": 9,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Other",
+    "Positions_Offered": 12,
+    "Total_Applicants": 28,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 25,
+    "Total_Applicants": 33,
+    "Positions_Matched": 16
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Internal Medicine",
+    "Positions_Offered": 51,
+    "Total_Applicants": 62,
+    "Positions_Matched": 16
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Small Animal",
+    "Positions_Offered": 1087,
+    "Total_Applicants": 897,
+    "Positions_Matched": 671
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Rotating (Diversity)",
+    "Positions_Offered": 12,
+    "Total_Applicants": 50,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Surgery",
+    "Positions_Offered": 173,
+    "Total_Applicants": 211,
+    "Positions_Matched": 102
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 7,
+    "Total_Applicants": 37,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 2,
+    "Total_Applicants": 7,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "American Board of Veterinary Practitioners",
+    "Positions_Offered": 1,
+    "Total_Applicants": 4,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Anesthesia",
+    "Positions_Offered": 26,
+    "Total_Applicants": 34,
+    "Positions_Matched": 18
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Avian Medicine",
+    "Positions_Offered": 1,
+    "Total_Applicants": 7,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Behavior",
+    "Positions_Offered": 2,
+    "Total_Applicants": 3,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 18,
+    "Total_Applicants": 79,
+    "Positions_Matched": 18
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 1,
+    "Total_Applicants": 2,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Dentistry",
+    "Positions_Offered": 4,
+    "Total_Applicants": 14,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 13,
+    "Total_Applicants": 19,
+    "Positions_Matched": 10
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 28,
+    "Total_Applicants": 85,
+    "Positions_Matched": 27
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 79,
+    "Total_Applicants": 90,
+    "Positions_Matched": 63
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Medicine",
+    "Positions_Offered": 12,
+    "Total_Applicants": 31,
+    "Positions_Matched": 9
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Surgery",
+    "Positions_Offered": 12,
+    "Total_Applicants": 103,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 5,
+    "Total_Applicants": 81,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Food Animal Medicine and Surgery",
+    "Positions_Offered": 4,
+    "Total_Applicants": 6,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Herd Mediicne/Agricultural Practices",
+    "Positions_Offered": 1,
+    "Total_Applicants": 0,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Laboratory Animal/Comparative Medicine",
+    "Positions_Offered": 56,
+    "Total_Applicants": 48,
+    "Positions_Matched": 34
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Large Animal",
+    "Positions_Offered": 19,
+    "Total_Applicants": 29,
+    "Positions_Matched": 15
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Small Animal",
+    "Positions_Offered": 71,
+    "Total_Applicants": 93,
+    "Positions_Matched": 56
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Neurology/Neurosurgery",
+    "Positions_Offered": 24,
+    "Total_Applicants": 68,
+    "Positions_Matched": 24
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Oncology",
+    "Positions_Offered": 23,
+    "Total_Applicants": 62,
+    "Positions_Matched": 23
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Radiation Oncology/Therapy",
+    "Positions_Offered": 8,
+    "Total_Applicants": 13,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 1,
+    "Total_Applicants": 4,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 3,
+    "Total_Applicants": 1,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Large Animal",
+    "Positions_Offered": 16,
+    "Total_Applicants": 96,
+    "Positions_Matched": 15
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Small Animal",
+    "Positions_Offered": 54,
+    "Total_Applicants": 238,
+    "Positions_Matched": 53
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Theriogenology",
+    "Positions_Offered": 11,
+    "Total_Applicants": 7,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Specialty": "Zoological Medicine",
+    "Positions_Offered": 8,
+    "Total_Applicants": 90,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Agricultural Practices",
+    "Positions_Offered": 1,
+    "Total_Applicants": 4,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 3,
+    "Total_Applicants": 9,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Anesthesiology",
+    "Positions_Offered": 6,
+    "Total_Applicants": 8,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Avian",
+    "Positions_Offered": 14,
+    "Total_Applicants": 50,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 7,
+    "Total_Applicants": 38,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 1,
+    "Total_Applicants": 2,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Community Practice",
+    "Positions_Offered": 21,
+    "Total_Applicants": 31,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 14,
+    "Total_Applicants": 14,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 9,
+    "Total_Applicants": 82,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 114,
+    "Total_Applicants": 181,
+    "Positions_Matched": 53
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Equine",
+    "Positions_Offered": 28,
+    "Total_Applicants": 63,
+    "Positions_Matched": 16
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 44,
+    "Total_Applicants": 183,
+    "Positions_Matched": 35
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Farm Practice/Production Animal Medicine",
+    "Positions_Offered": 1,
+    "Total_Applicants": 8,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Food Animal",
+    "Positions_Offered": 9,
+    "Total_Applicants": 13,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Large Animal",
+    "Positions_Offered": 14,
+    "Total_Applicants": 63,
+    "Positions_Matched": 9
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Rotating (Diversity)",
+    "Positions_Offered": 1,
+    "Total_Applicants": 6,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Surgery",
+    "Positions_Offered": 2,
+    "Total_Applicants": 18,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Neurology",
+    "Positions_Offered": 41,
+    "Total_Applicants": 51,
+    "Positions_Matched": 26
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Oncology",
+    "Positions_Offered": 27,
+    "Total_Applicants": 64,
+    "Positions_Matched": 15
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Other",
+    "Positions_Offered": 9,
+    "Total_Applicants": 18,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 24,
+    "Total_Applicants": 30,
+    "Positions_Matched": 18
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Internal Medicine",
+    "Positions_Offered": 43,
+    "Total_Applicants": 57,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Small Animal",
+    "Positions_Offered": 1029,
+    "Total_Applicants": 960,
+    "Positions_Matched": 717
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Rotating (Diversity)",
+    "Positions_Offered": 6,
+    "Total_Applicants": 22,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Surgery",
+    "Positions_Offered": 167,
+    "Total_Applicants": 178,
+    "Positions_Matched": 96
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 4,
+    "Total_Applicants": 42,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 1,
+    "Total_Applicants": 0,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Anesthesia",
+    "Positions_Offered": 19,
+    "Total_Applicants": 31,
+    "Positions_Matched": 16
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Avian Medicine",
+    "Positions_Offered": 2,
+    "Total_Applicants": 12,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 10,
+    "Total_Applicants": 70,
+    "Positions_Matched": 10
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 4,
+    "Total_Applicants": 12,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Dentistry",
+    "Positions_Offered": 6,
+    "Total_Applicants": 20,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 8,
+    "Total_Applicants": 22,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 22,
+    "Total_Applicants": 109,
+    "Positions_Matched": 22
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 65,
+    "Total_Applicants": 69,
+    "Positions_Matched": 46
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Medicine",
+    "Positions_Offered": 8,
+    "Total_Applicants": 27,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Surgery",
+    "Positions_Offered": 9,
+    "Total_Applicants": 81,
+    "Positions_Matched": 9
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 3,
+    "Total_Applicants": 83,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Food Animal Medicine and Surgery",
+    "Positions_Offered": 7,
+    "Total_Applicants": 15,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Herd Mediicne/Agricultural Practices",
+    "Positions_Offered": 2,
+    "Total_Applicants": 14,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Laboratory Animal/Comparative Medicine",
+    "Positions_Offered": 49,
+    "Total_Applicants": 64,
+    "Positions_Matched": 43
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Large Animal",
+    "Positions_Offered": 17,
+    "Total_Applicants": 42,
+    "Positions_Matched": 16
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Small Animal",
+    "Positions_Offered": 55,
+    "Total_Applicants": 79,
+    "Positions_Matched": 46
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Neurology/Neurosurgery",
+    "Positions_Offered": 21,
+    "Total_Applicants": 56,
+    "Positions_Matched": 21
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Oncology",
+    "Positions_Offered": 19,
+    "Total_Applicants": 50,
+    "Positions_Matched": 19
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Ophthalmology",
+    "Positions_Offered": 1,
+    "Total_Applicants": 17,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Other",
+    "Positions_Offered": 1,
+    "Total_Applicants": 5,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Radiation Oncology/Therapy",
+    "Positions_Offered": 10,
+    "Total_Applicants": 14,
+    "Positions_Matched": 10
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 2,
+    "Total_Applicants": 12,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 5,
+    "Total_Applicants": 10,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Large Animal",
+    "Positions_Offered": 11,
+    "Total_Applicants": 81,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Small Animal",
+    "Positions_Offered": 51,
+    "Total_Applicants": 228,
+    "Positions_Matched": 49
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Theriogenology",
+    "Positions_Offered": 5,
+    "Total_Applicants": 16,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Specialty": "Zoological Medicine",
+    "Positions_Offered": 9,
+    "Total_Applicants": 97,
+    "Positions_Matched": 9
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 5,
+    "Total_Applicants": 21,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Anesthesiology",
+    "Positions_Offered": 2,
+    "Total_Applicants": 7,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Avian",
+    "Positions_Offered": 10,
+    "Total_Applicants": 70,
+    "Positions_Matched": 10
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 6,
+    "Total_Applicants": 40,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Community Practice",
+    "Positions_Offered": 23,
+    "Total_Applicants": 46,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 10,
+    "Total_Applicants": 18,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 9,
+    "Total_Applicants": 56,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 94,
+    "Total_Applicants": 212,
+    "Positions_Matched": 51
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Equine",
+    "Positions_Offered": 30,
+    "Total_Applicants": 95,
+    "Positions_Matched": 24
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 35,
+    "Total_Applicants": 176,
+    "Positions_Matched": 31
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Farm Practice/Production Animal Medicine",
+    "Positions_Offered": 3,
+    "Total_Applicants": 19,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Food Animal",
+    "Positions_Offered": 7,
+    "Total_Applicants": 22,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Large Animal",
+    "Positions_Offered": 16,
+    "Total_Applicants": 83,
+    "Positions_Matched": 14
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Rotating (Diversity)",
+    "Positions_Offered": 1,
+    "Total_Applicants": 5,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Surgery",
+    "Positions_Offered": 2,
+    "Total_Applicants": 37,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Neurology",
+    "Positions_Offered": 36,
+    "Total_Applicants": 41,
+    "Positions_Matched": 17
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Oncology",
+    "Positions_Offered": 30,
+    "Total_Applicants": 59,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Ophthalmology",
+    "Positions_Offered": 1,
+    "Total_Applicants": 10,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Other",
+    "Positions_Offered": 9,
+    "Total_Applicants": 22,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 25,
+    "Total_Applicants": 39,
+    "Positions_Matched": 19
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Internal Medicine",
+    "Positions_Offered": 36,
+    "Total_Applicants": 56,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Small Animal",
+    "Positions_Offered": 960,
+    "Total_Applicants": 927,
+    "Positions_Matched": 662
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Rotating (Diversity)",
+    "Positions_Offered": 6,
+    "Total_Applicants": 32,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Surgery",
+    "Positions_Offered": 146,
+    "Total_Applicants": 200,
+    "Positions_Matched": 95
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 3,
+    "Total_Applicants": 78,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 1,
+    "Total_Applicants": 1,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Anesthesia",
+    "Positions_Offered": 27,
+    "Total_Applicants": 24,
+    "Positions_Matched": 20
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Avian Medicine",
+    "Positions_Offered": 2,
+    "Total_Applicants": 7,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Behavior",
+    "Positions_Offered": 1,
+    "Total_Applicants": 10,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 16,
+    "Total_Applicants": 64,
+    "Positions_Matched": 15
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 3,
+    "Total_Applicants": 4,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Dentistry",
+    "Positions_Offered": 4,
+    "Total_Applicants": 11,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 6,
+    "Total_Applicants": 21,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 20,
+    "Total_Applicants": 113,
+    "Positions_Matched": 20
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 70,
+    "Total_Applicants": 81,
+    "Positions_Matched": 51
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Medicine",
+    "Positions_Offered": 9,
+    "Total_Applicants": 21,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Surgery",
+    "Positions_Offered": 8,
+    "Total_Applicants": 88,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 3,
+    "Total_Applicants": 79,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Food Animal Medicine and Surgery",
+    "Positions_Offered": 5,
+    "Total_Applicants": 15,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Herd Mediicne/Agricultural Practices",
+    "Positions_Offered": 1,
+    "Total_Applicants": 13,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Laboratory Animal/Comparative Medicine",
+    "Positions_Offered": 47,
+    "Total_Applicants": 63,
+    "Positions_Matched": 40
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Large Animal",
+    "Positions_Offered": 16,
+    "Total_Applicants": 35,
+    "Positions_Matched": 13
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Small Animal",
+    "Positions_Offered": 59,
+    "Total_Applicants": 95,
+    "Positions_Matched": 49
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Neurology/Neurosurgery",
+    "Positions_Offered": 19,
+    "Total_Applicants": 53,
+    "Positions_Matched": 19
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Oncology",
+    "Positions_Offered": 26,
+    "Total_Applicants": 59,
+    "Positions_Matched": 26
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Ophthalmology",
+    "Positions_Offered": 1,
+    "Total_Applicants": 7,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Radiation Oncology/Therapy",
+    "Positions_Offered": 3,
+    "Total_Applicants": 19,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 4,
+    "Total_Applicants": 5,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Large Animal",
+    "Positions_Offered": 12,
+    "Total_Applicants": 88,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Small Animal",
+    "Positions_Offered": 42,
+    "Total_Applicants": 243,
+    "Positions_Matched": 41
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Theriogenology",
+    "Positions_Offered": 12,
+    "Total_Applicants": 16,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Specialty": "Zoological Medicine",
+    "Positions_Offered": 11,
+    "Total_Applicants": 97,
+    "Positions_Matched": 10
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Agricultural Practices",
+    "Positions_Offered": 2,
+    "Total_Applicants": 19,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 1,
+    "Total_Applicants": 1,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Anesthesiology",
+    "Positions_Offered": 5,
+    "Total_Applicants": 7,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Avian",
+    "Positions_Offered": 13,
+    "Total_Applicants": 61,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 5,
+    "Total_Applicants": 29,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Community Practice",
+    "Positions_Offered": 18,
+    "Total_Applicants": 38,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 4,
+    "Total_Applicants": 15,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 6,
+    "Total_Applicants": 72,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 115,
+    "Total_Applicants": 276,
+    "Positions_Matched": 54
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Equine",
+    "Positions_Offered": 21,
+    "Total_Applicants": 86,
+    "Positions_Matched": 14
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 25,
+    "Total_Applicants": 182,
+    "Positions_Matched": 25
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Farm Practice/Production Animal Medicine",
+    "Positions_Offered": 3,
+    "Total_Applicants": 19,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Food Animal",
+    "Positions_Offered": 8,
+    "Total_Applicants": 23,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Large Animal",
+    "Positions_Offered": 23,
+    "Total_Applicants": 91,
+    "Positions_Matched": 20
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Medicine/Surgery (Minority)",
+    "Positions_Offered": 1,
+    "Total_Applicants": 2,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Surgery",
+    "Positions_Offered": 3,
+    "Total_Applicants": 29,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Neurology",
+    "Positions_Offered": 51,
+    "Total_Applicants": 45,
+    "Positions_Matched": 25
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Oncology",
+    "Positions_Offered": 29,
+    "Total_Applicants": 50,
+    "Positions_Matched": 17
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Ophthalmology",
+    "Positions_Offered": 4,
+    "Total_Applicants": 8,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Other",
+    "Positions_Offered": 11,
+    "Total_Applicants": 50,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 23,
+    "Total_Applicants": 40,
+    "Positions_Matched": 19
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Internal Medicine",
+    "Positions_Offered": 37,
+    "Total_Applicants": 50,
+    "Positions_Matched": 10
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Small Animal",
+    "Positions_Offered": 920,
+    "Total_Applicants": 908,
+    "Positions_Matched": 663
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Medicine/Surgery (Minority)",
+    "Positions_Offered": 5,
+    "Total_Applicants": 24,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Surgery",
+    "Positions_Offered": 124,
+    "Total_Applicants": 182,
+    "Positions_Matched": 84
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 4,
+    "Total_Applicants": 29,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 2,
+    "Total_Applicants": 11,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Anesthesia",
+    "Positions_Offered": 16,
+    "Total_Applicants": 19,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Behavior",
+    "Positions_Offered": 2,
+    "Total_Applicants": 6,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 16,
+    "Total_Applicants": 72,
+    "Positions_Matched": 16
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 3,
+    "Total_Applicants": 6,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Dentistry",
+    "Positions_Offered": 4,
+    "Total_Applicants": 12,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 5,
+    "Total_Applicants": 28,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 25,
+    "Total_Applicants": 134,
+    "Positions_Matched": 25
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 64,
+    "Total_Applicants": 78,
+    "Positions_Matched": 47
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Medicine",
+    "Positions_Offered": 9,
+    "Total_Applicants": 39,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Surgery",
+    "Positions_Offered": 11,
+    "Total_Applicants": 80,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 5,
+    "Total_Applicants": 78,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Food Animal Medicine and Surgery",
+    "Positions_Offered": 5,
+    "Total_Applicants": 16,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Herd Mediicne/Agricultural Practices",
+    "Positions_Offered": 5,
+    "Total_Applicants": 16,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Laboratory Animal/Comparative Medicine",
+    "Positions_Offered": 45,
+    "Total_Applicants": 72,
+    "Positions_Matched": 41
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Large Animal",
+    "Positions_Offered": 22,
+    "Total_Applicants": 50,
+    "Positions_Matched": 17
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Small Animal",
+    "Positions_Offered": 56,
+    "Total_Applicants": 106,
+    "Positions_Matched": 52
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Neurology/Neurosurgery",
+    "Positions_Offered": 20,
+    "Total_Applicants": 67,
+    "Positions_Matched": 20
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Oncology",
+    "Positions_Offered": 22,
+    "Total_Applicants": 78,
+    "Positions_Matched": 22
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Radiation Oncology/Therapy",
+    "Positions_Offered": 9,
+    "Total_Applicants": 17,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 3,
+    "Total_Applicants": 4,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Large Animal",
+    "Positions_Offered": 13,
+    "Total_Applicants": 83,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Small Animal",
+    "Positions_Offered": 49,
+    "Total_Applicants": 232,
+    "Positions_Matched": 49
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Theriogenology",
+    "Positions_Offered": 10,
+    "Total_Applicants": 20,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Specialty": "Zoological Medicine",
+    "Positions_Offered": 7,
+    "Total_Applicants": 85,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 3,
+    "Total_Applicants": 26,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Anesthesiology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 12,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Avian",
+    "Positions_Offered": 11,
+    "Total_Applicants": 74,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 4,
+    "Total_Applicants": 26,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Community Practice",
+    "Positions_Offered": 15,
+    "Total_Applicants": 31,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 2,
+    "Total_Applicants": 11,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 40,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 120,
+    "Total_Applicants": 275,
+    "Positions_Matched": 49
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Equine",
+    "Positions_Offered": 25,
+    "Total_Applicants": 87,
+    "Positions_Matched": 14
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 21,
+    "Total_Applicants": 145,
+    "Positions_Matched": 19
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Farm Practice/Production Animal Medicine",
+    "Positions_Offered": 1,
+    "Total_Applicants": 11,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Food Animal",
+    "Positions_Offered": 9,
+    "Total_Applicants": 19,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Large Animal",
+    "Positions_Offered": 20,
+    "Total_Applicants": 85,
+    "Positions_Matched": 17
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Medicine/Surgery (Minority)",
+    "Positions_Offered": 1,
+    "Total_Applicants": 4,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Surgery",
+    "Positions_Offered": 4,
+    "Total_Applicants": 36,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Neurology",
+    "Positions_Offered": 32,
+    "Total_Applicants": 52,
+    "Positions_Matched": 21
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Oncology",
+    "Positions_Offered": 24,
+    "Total_Applicants": 42,
+    "Positions_Matched": 16
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Ophthalmology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 13,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Other",
+    "Positions_Offered": 6,
+    "Total_Applicants": 29,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 17,
+    "Total_Applicants": 38,
+    "Positions_Matched": 13
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Internal Medicine",
+    "Positions_Offered": 28,
+    "Total_Applicants": 62,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Small Animal",
+    "Positions_Offered": 929,
+    "Total_Applicants": 912,
+    "Positions_Matched": 662
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Medicine/Surgery (Minority)",
+    "Positions_Offered": 4,
+    "Total_Applicants": 26,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Surgery",
+    "Positions_Offered": 113,
+    "Total_Applicants": 152,
+    "Positions_Matched": 70
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 3,
+    "Total_Applicants": 48,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Food Animal Medicine and Surgery",
+    "Positions_Offered": 5,
+    "Total_Applicants": 11,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 2,
+    "Total_Applicants": 9,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Anesthesia",
+    "Positions_Offered": 19,
+    "Total_Applicants": 29,
+    "Positions_Matched": 16
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Avian Medicine",
+    "Positions_Offered": 3,
+    "Total_Applicants": 29,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 9,
+    "Total_Applicants": 57,
+    "Positions_Matched": 9
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 3,
+    "Total_Applicants": 10,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Dentistry",
+    "Positions_Offered": 4,
+    "Total_Applicants": 12,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 11,
+    "Total_Applicants": 37,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 16,
+    "Total_Applicants": 94,
+    "Positions_Matched": 15
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 58,
+    "Total_Applicants": 90,
+    "Positions_Matched": 48
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Medicine",
+    "Positions_Offered": 10,
+    "Total_Applicants": 27,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Surgery",
+    "Positions_Offered": 12,
+    "Total_Applicants": 81,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 2,
+    "Total_Applicants": 69,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Herd Mediicne/Agricultural Practices",
+    "Positions_Offered": 1,
+    "Total_Applicants": 17,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Laboratory Animal/Comparative Medicine",
+    "Positions_Offered": 37,
+    "Total_Applicants": 77,
+    "Positions_Matched": 33
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Large Animal",
+    "Positions_Offered": 15,
+    "Total_Applicants": 56,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Small Animal",
+    "Positions_Offered": 46,
+    "Total_Applicants": 109,
+    "Positions_Matched": 44
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Neurology/Neurosurgery",
+    "Positions_Offered": 20,
+    "Total_Applicants": 77,
+    "Positions_Matched": 20
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Oncology",
+    "Positions_Offered": 21,
+    "Total_Applicants": 78,
+    "Positions_Matched": 21
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Ophthalmology",
+    "Positions_Offered": 1,
+    "Total_Applicants": 23,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Radiation Oncology/Therapy",
+    "Positions_Offered": 6,
+    "Total_Applicants": 10,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 1,
+    "Total_Applicants": 4,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Large Animal",
+    "Positions_Offered": 11,
+    "Total_Applicants": 82,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Small Animal",
+    "Positions_Offered": 45,
+    "Total_Applicants": 222,
+    "Positions_Matched": 45
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Theriogenology",
+    "Positions_Offered": 9,
+    "Total_Applicants": 22,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Specialty": "Zoological Medicine",
+    "Positions_Offered": 5,
+    "Total_Applicants": 76,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Agricultural Practices",
+    "Positions_Offered": 1,
+    "Total_Applicants": 20,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 3,
+    "Total_Applicants": 20,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Anesthesiology",
+    "Positions_Offered": 5,
+    "Total_Applicants": 9,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Avian",
+    "Positions_Offered": 10,
+    "Total_Applicants": 59,
+    "Positions_Matched": 9
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 2,
+    "Total_Applicants": 12,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Community Practice",
+    "Positions_Offered": 11,
+    "Total_Applicants": 23,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 9,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 4,
+    "Total_Applicants": 56,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 114,
+    "Total_Applicants": 305,
+    "Positions_Matched": 61
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Equine",
+    "Positions_Offered": 23,
+    "Total_Applicants": 108,
+    "Positions_Matched": 17
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 19,
+    "Total_Applicants": 127,
+    "Positions_Matched": 19
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Farm Practice/Production Animal Medicine",
+    "Positions_Offered": 1,
+    "Total_Applicants": 7,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Food Animal",
+    "Positions_Offered": 8,
+    "Total_Applicants": 12,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Large Animal",
+    "Positions_Offered": 18,
+    "Total_Applicants": 90,
+    "Positions_Matched": 18
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Medicine/Surgery (Minority)",
+    "Positions_Offered": 1,
+    "Total_Applicants": 4,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Surgery",
+    "Positions_Offered": 3,
+    "Total_Applicants": 34,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Neurology",
+    "Positions_Offered": 29,
+    "Total_Applicants": 41,
+    "Positions_Matched": 18
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Oncology",
+    "Positions_Offered": 23,
+    "Total_Applicants": 57,
+    "Positions_Matched": 15
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Other",
+    "Positions_Offered": 11,
+    "Total_Applicants": 59,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 10,
+    "Total_Applicants": 28,
+    "Positions_Matched": 10
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Internal Medicine",
+    "Positions_Offered": 27,
+    "Total_Applicants": 79,
+    "Positions_Matched": 9
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Small Animal",
+    "Positions_Offered": 880,
+    "Total_Applicants": 982,
+    "Positions_Matched": 642
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Medicine/Surgery (Minority)",
+    "Positions_Offered": 5,
+    "Total_Applicants": 47,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Surgery",
+    "Positions_Offered": 115,
+    "Total_Applicants": 176,
+    "Positions_Matched": 74
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 4,
+    "Total_Applicants": 13,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 2,
+    "Total_Applicants": 12,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Anesthesia",
+    "Positions_Offered": 20,
+    "Total_Applicants": 35,
+    "Positions_Matched": 16
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Avian Medicine",
+    "Positions_Offered": 1,
+    "Total_Applicants": 23,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 13,
+    "Total_Applicants": 57,
+    "Positions_Matched": 13
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 3,
+    "Total_Applicants": 13,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Dentistry",
+    "Positions_Offered": 5,
+    "Total_Applicants": 19,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 8,
+    "Total_Applicants": 26,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 19,
+    "Total_Applicants": 121,
+    "Positions_Matched": 19
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 50,
+    "Total_Applicants": 72,
+    "Positions_Matched": 38
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Medicine",
+    "Positions_Offered": 9,
+    "Total_Applicants": 46,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Surgery",
+    "Positions_Offered": 7,
+    "Total_Applicants": 84,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 4,
+    "Total_Applicants": 79,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Food Animal Medicine and Surgery",
+    "Positions_Offered": 2,
+    "Total_Applicants": 4,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Herd Mediicne/Agricultural Practices",
+    "Positions_Offered": 3,
+    "Total_Applicants": 14,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Laboratory Animal/Comparative Medicine",
+    "Positions_Offered": 42,
+    "Total_Applicants": 80,
+    "Positions_Matched": 39
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Large Animal",
+    "Positions_Offered": 11,
+    "Total_Applicants": 47,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Small Animal",
+    "Positions_Offered": 51,
+    "Total_Applicants": 107,
+    "Positions_Matched": 46
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Neurology/Neurosurgery",
+    "Positions_Offered": 18,
+    "Total_Applicants": 58,
+    "Positions_Matched": 17
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Oncology",
+    "Positions_Offered": 25,
+    "Total_Applicants": 82,
+    "Positions_Matched": 25
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Radiation Oncology/Therapy",
+    "Positions_Offered": 6,
+    "Total_Applicants": 12,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 1,
+    "Total_Applicants": 6,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 4,
+    "Total_Applicants": 5,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Large Animal",
+    "Positions_Offered": 14,
+    "Total_Applicants": 94,
+    "Positions_Matched": 14
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Small Animal",
+    "Positions_Offered": 44,
+    "Total_Applicants": 225,
+    "Positions_Matched": 42
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Theriogenology",
+    "Positions_Offered": 6,
+    "Total_Applicants": 8,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Specialty": "Zoological Medicine",
+    "Positions_Offered": 11,
+    "Total_Applicants": 96,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Agricultural Practices",
+    "Positions_Offered": 2,
+    "Total_Applicants": 4,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 3,
+    "Total_Applicants": 38,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Anesthesiology",
+    "Positions_Offered": 5,
+    "Total_Applicants": 8,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Avian",
+    "Positions_Offered": 9,
+    "Total_Applicants": 79,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 11,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 18,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 5,
+    "Total_Applicants": 51,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 94,
+    "Total_Applicants": 291,
+    "Positions_Matched": 49
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Equine",
+    "Positions_Offered": 25,
+    "Total_Applicants": 111,
+    "Positions_Matched": 23
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 17,
+    "Total_Applicants": 139,
+    "Positions_Matched": 17
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Farm Practice/Production Animal Medicine",
+    "Positions_Offered": 4,
+    "Total_Applicants": 16,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Food Animal",
+    "Positions_Offered": 5,
+    "Total_Applicants": 18,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Large Animal",
+    "Positions_Offered": 17,
+    "Total_Applicants": 82,
+    "Positions_Matched": 14
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Medicine/Surgery (Minority)",
+    "Positions_Offered": 1,
+    "Total_Applicants": 4,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Surgery",
+    "Positions_Offered": 1,
+    "Total_Applicants": 11,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Neurology",
+    "Positions_Offered": 22,
+    "Total_Applicants": 30,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Oncology",
+    "Positions_Offered": 23,
+    "Total_Applicants": 52,
+    "Positions_Matched": 18
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Other",
+    "Positions_Offered": 10,
+    "Total_Applicants": 51,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Pathology/Clinical Pathology",
+    "Positions_Offered": 2,
+    "Total_Applicants": 6,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 6,
+    "Total_Applicants": 35,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Internal Medicine",
+    "Positions_Offered": 31,
+    "Total_Applicants": 93,
+    "Positions_Matched": 14
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Small Animal",
+    "Positions_Offered": 794,
+    "Total_Applicants": 952,
+    "Positions_Matched": 631
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Medicine/Surgery (Minority)",
+    "Positions_Offered": 4,
+    "Total_Applicants": 34,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Surgery",
+    "Positions_Offered": 89,
+    "Total_Applicants": 144,
+    "Positions_Matched": 59
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 5,
+    "Total_Applicants": 74,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Food Animal Medicine and Surgery",
+    "Positions_Offered": 5,
+    "Total_Applicants": 11,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 2,
+    "Total_Applicants": 9,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Anesthesia",
+    "Positions_Offered": 16,
+    "Total_Applicants": 22,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Avian Medicine",
+    "Positions_Offered": 1,
+    "Total_Applicants": 7,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Behavior",
+    "Positions_Offered": 1,
+    "Total_Applicants": 1,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 16,
+    "Total_Applicants": 54,
+    "Positions_Matched": 15
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 3,
+    "Total_Applicants": 9,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Dentistry",
+    "Positions_Offered": 4,
+    "Total_Applicants": 10,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 5,
+    "Total_Applicants": 25,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 21,
+    "Total_Applicants": 90,
+    "Positions_Matched": 20
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 48,
+    "Total_Applicants": 69,
+    "Positions_Matched": 38
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Medicine",
+    "Positions_Offered": 8,
+    "Total_Applicants": 40,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Surgery",
+    "Positions_Offered": 6,
+    "Total_Applicants": 70,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 6,
+    "Total_Applicants": 72,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Genetics and Pediatrics - Small Animal",
+    "Positions_Offered": 2,
+    "Total_Applicants": 5,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Herd Mediicne/Agricultural Practices",
+    "Positions_Offered": 2,
+    "Total_Applicants": 7,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Laboratory Animal/Comparative Medicine",
+    "Positions_Offered": 41,
+    "Total_Applicants": 93,
+    "Positions_Matched": 41
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Large Animal",
+    "Positions_Offered": 14,
+    "Total_Applicants": 41,
+    "Positions_Matched": 13
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Small Animal",
+    "Positions_Offered": 42,
+    "Total_Applicants": 100,
+    "Positions_Matched": 40
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Neurology/Neurosurgery",
+    "Positions_Offered": 20,
+    "Total_Applicants": 63,
+    "Positions_Matched": 20
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Oncology",
+    "Positions_Offered": 18,
+    "Total_Applicants": 59,
+    "Positions_Matched": 18
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Radiation Oncology/Therapy",
+    "Positions_Offered": 6,
+    "Total_Applicants": 14,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 2,
+    "Total_Applicants": 9,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Large Animal",
+    "Positions_Offered": 15,
+    "Total_Applicants": 77,
+    "Positions_Matched": 15
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Small Animal",
+    "Positions_Offered": 50,
+    "Total_Applicants": 217,
+    "Positions_Matched": 49
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Theriogenology",
+    "Positions_Offered": 7,
+    "Total_Applicants": 18,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Specialty": "Zoological Medicine",
+    "Positions_Offered": 4,
+    "Total_Applicants": 69,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Agricultural Practices",
+    "Positions_Offered": 2,
+    "Total_Applicants": 42,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 3,
+    "Total_Applicants": 41,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Anesthesiology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 20,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Avian",
+    "Positions_Offered": 8,
+    "Total_Applicants": 84,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 22,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 13,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 29,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 79,
+    "Total_Applicants": 350,
+    "Positions_Matched": 56
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Equine",
+    "Positions_Offered": 23,
+    "Total_Applicants": 122,
+    "Positions_Matched": 21
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 12,
+    "Total_Applicants": 124,
+    "Positions_Matched": 12
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Farm Practice/Production Animal Medicine",
+    "Positions_Offered": 2,
+    "Total_Applicants": 22,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Food Animal",
+    "Positions_Offered": 7,
+    "Total_Applicants": 39,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Large Animal",
+    "Positions_Offered": 17,
+    "Total_Applicants": 113,
+    "Positions_Matched": 14
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Medicine/Surgery (Minority)",
+    "Positions_Offered": 2,
+    "Total_Applicants": 15,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Surgery",
+    "Positions_Offered": 1,
+    "Total_Applicants": 19,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Neurology",
+    "Positions_Offered": 19,
+    "Total_Applicants": 35,
+    "Positions_Matched": 9
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Oncology",
+    "Positions_Offered": 11,
+    "Total_Applicants": 40,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Other",
+    "Positions_Offered": 7,
+    "Total_Applicants": 55,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 5,
+    "Total_Applicants": 27,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Internal Medicine",
+    "Positions_Offered": 31,
+    "Total_Applicants": 76,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Small Animal",
+    "Positions_Offered": 725,
+    "Total_Applicants": 1071,
+    "Positions_Matched": 655
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Medicine/Surgery (Minority)",
+    "Positions_Offered": 4,
+    "Total_Applicants": 39,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Surgery",
+    "Positions_Offered": 78,
+    "Total_Applicants": 145,
+    "Positions_Matched": 47
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 2,
+    "Total_Applicants": 37,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 3,
+    "Total_Applicants": 15,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Anesthesia",
+    "Positions_Offered": 14,
+    "Total_Applicants": 36,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Avian Medicine",
+    "Positions_Offered": 4,
+    "Total_Applicants": 18,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Behavior",
+    "Positions_Offered": 1,
+    "Total_Applicants": 8,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 7,
+    "Total_Applicants": 41,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 2,
+    "Total_Applicants": 9,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Dentistry",
+    "Positions_Offered": 3,
+    "Total_Applicants": 16,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 7,
+    "Total_Applicants": 33,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 19,
+    "Total_Applicants": 97,
+    "Positions_Matched": 19
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 54,
+    "Total_Applicants": 78,
+    "Positions_Matched": 40
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Medicine",
+    "Positions_Offered": 6,
+    "Total_Applicants": 33,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Surgery",
+    "Positions_Offered": 8,
+    "Total_Applicants": 76,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 3,
+    "Total_Applicants": 80,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Food Animal Medicine and Surgery",
+    "Positions_Offered": 4,
+    "Total_Applicants": 12,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Herd Mediicne/Agricultural Practices",
+    "Positions_Offered": 2,
+    "Total_Applicants": 17,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Laboratory Animal/Comparative Medicine",
+    "Positions_Offered": 38,
+    "Total_Applicants": 114,
+    "Positions_Matched": 35
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Large Animal",
+    "Positions_Offered": 15,
+    "Total_Applicants": 50,
+    "Positions_Matched": 13
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Small Animal",
+    "Positions_Offered": 43,
+    "Total_Applicants": 107,
+    "Positions_Matched": 42
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Neurology/Neurosurgery",
+    "Positions_Offered": 19,
+    "Total_Applicants": 59,
+    "Positions_Matched": 18
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Oncology",
+    "Positions_Offered": 20,
+    "Total_Applicants": 55,
+    "Positions_Matched": 20
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Ophthalmology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 44,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Radiation Oncology/Therapy",
+    "Positions_Offered": 4,
+    "Total_Applicants": 9,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 1,
+    "Total_Applicants": 3,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Large Animal",
+    "Positions_Offered": 11,
+    "Total_Applicants": 82,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Small Animal",
+    "Positions_Offered": 44,
+    "Total_Applicants": 173,
+    "Positions_Matched": 42
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Theriogenology",
+    "Positions_Offered": 8,
+    "Total_Applicants": 25,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Specialty": "Zoological Medicine",
+    "Positions_Offered": 4,
+    "Total_Applicants": 78,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Agricultural Practices",
+    "Positions_Offered": 1,
+    "Total_Applicants": 10,
+    "Positions_Matched": 0
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Ambulatory",
+    "Positions_Offered": 2,
+    "Total_Applicants": 53,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Anesthesiology",
+    "Positions_Offered": 1,
+    "Total_Applicants": 9,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Avian",
+    "Positions_Offered": 9,
+    "Total_Applicants": 96,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 18,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 2,
+    "Total_Applicants": 16,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 44,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 85,
+    "Total_Applicants": 362,
+    "Positions_Matched": 54
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Equine",
+    "Positions_Offered": 20,
+    "Total_Applicants": 100,
+    "Positions_Matched": 18
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 13,
+    "Total_Applicants": 131,
+    "Positions_Matched": 11
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Farm Practice/Production Animal Medicine",
+    "Positions_Offered": 3,
+    "Total_Applicants": 29,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Food Animal",
+    "Positions_Offered": 6,
+    "Total_Applicants": 35,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Large Animal",
+    "Positions_Offered": 17,
+    "Total_Applicants": 120,
+    "Positions_Matched": 17
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Large Animal Surgery",
+    "Positions_Offered": 1,
+    "Total_Applicants": 20,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Neurology",
+    "Positions_Offered": 20,
+    "Total_Applicants": 34,
+    "Positions_Matched": 10
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Oncology",
+    "Positions_Offered": 11,
+    "Total_Applicants": 39,
+    "Positions_Matched": 7
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Other",
+    "Positions_Offered": 4,
+    "Total_Applicants": 64,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 6,
+    "Total_Applicants": 37,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Internal Medicine",
+    "Positions_Offered": 23,
+    "Total_Applicants": 60,
+    "Positions_Matched": 9
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Rotating - Small Animal",
+    "Positions_Offered": 700,
+    "Total_Applicants": 1011,
+    "Positions_Matched": 605
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Medicine/Surgery (Minority)",
+    "Positions_Offered": 4,
+    "Total_Applicants": 42,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Small Animal Surgery",
+    "Positions_Offered": 67,
+    "Total_Applicants": 137,
+    "Positions_Matched": 49
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 4,
+    "Total_Applicants": 64,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Anesthesia",
+    "Positions_Offered": 11,
+    "Total_Applicants": 19,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Avian Medicine",
+    "Positions_Offered": 1,
+    "Total_Applicants": 24,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Cardiology",
+    "Positions_Offered": 8,
+    "Total_Applicants": 39,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Clinical Nutrition",
+    "Positions_Offered": 2,
+    "Total_Applicants": 8,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Dentistry",
+    "Positions_Offered": 2,
+    "Total_Applicants": 17,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Dermatology",
+    "Positions_Offered": 6,
+    "Total_Applicants": 30,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Diagnostic Imaging and Radiology",
+    "Positions_Offered": 19,
+    "Total_Applicants": 84,
+    "Positions_Matched": 19
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Emergency Medicine/Critical Care",
+    "Positions_Offered": 54,
+    "Total_Applicants": 93,
+    "Positions_Matched": 42
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Medicine",
+    "Positions_Offered": 8,
+    "Total_Applicants": 26,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Equine Surgery",
+    "Positions_Offered": 6,
+    "Total_Applicants": 71,
+    "Positions_Matched": 6
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Exotic/Wildlife/Zoo",
+    "Positions_Offered": 5,
+    "Total_Applicants": 90,
+    "Positions_Matched": 4
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Food Animal Medicine and Surgery",
+    "Positions_Offered": 5,
+    "Total_Applicants": 12,
+    "Positions_Matched": 2
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Genetics and Pediatrics - Small Animal",
+    "Positions_Offered": 1,
+    "Total_Applicants": 6,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Herd Medicne/Agricultural Practices/Herd Production",
+    "Positions_Offered": 2,
+    "Total_Applicants": 8,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Laboratory Animal/Comparative Medicine",
+    "Positions_Offered": 46,
+    "Total_Applicants": 86,
+    "Positions_Matched": 38
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Large Animal",
+    "Positions_Offered": 14,
+    "Total_Applicants": 34,
+    "Positions_Matched": 8
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Medicine - Small Animal",
+    "Positions_Offered": 45,
+    "Total_Applicants": 107,
+    "Positions_Matched": 44
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Neurology/Neurosurgery",
+    "Positions_Offered": 14,
+    "Total_Applicants": 48,
+    "Positions_Matched": 14
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Oncology",
+    "Positions_Offered": 22,
+    "Total_Applicants": 67,
+    "Positions_Matched": 22
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Ophthalmology",
+    "Positions_Offered": 3,
+    "Total_Applicants": 34,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Radiation Oncology/Therapy",
+    "Positions_Offered": 6,
+    "Total_Applicants": 8,
+    "Positions_Matched": 5
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Shelter Medicine",
+    "Positions_Offered": 2,
+    "Total_Applicants": 10,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Sports Medicine and Rehabilitation",
+    "Positions_Offered": 2,
+    "Total_Applicants": 20,
+    "Positions_Matched": 1
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Large Animal",
+    "Positions_Offered": 13,
+    "Total_Applicants": 75,
+    "Positions_Matched": 13
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Surgery - Small Animal",
+    "Positions_Offered": 44,
+    "Total_Applicants": 185,
+    "Positions_Matched": 44
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Theriogenology",
+    "Positions_Offered": 5,
+    "Total_Applicants": 13,
+    "Positions_Matched": 3
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Specialty": "Zoological Medicine",
+    "Positions_Offered": 7,
+    "Total_Applicants": 86,
+    "Positions_Matched": 7
+  }
+]

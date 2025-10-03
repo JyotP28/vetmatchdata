@@ -1,0 +1,218 @@
+[
+  {
+    "Year": 2025,
+    "Program_Type": "Internship",
+    "Positions_Offered": 1522,
+    "Total_Applicants": 2088,
+    "Positions_Matched": 1190,
+    "Matched_Institution": 435,
+    "Matched_Private_Practice": 755
+  },
+  {
+    "Year": 2025,
+    "Program_Type": "Residency",
+    "Positions_Offered": 521,
+    "Total_Applicants": 1237,
+    "Positions_Matched": 430,
+    "Matched_Institution": 361,
+    "Matched_Private_Practice": 69
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Internship",
+    "Positions_Offered": 1558,
+    "Total_Applicants": 1690,
+    "Positions_Matched": 1061,
+    "Matched_Institution": 406,
+    "Matched_Private_Practice": 655
+  },
+  {
+    "Year": 2024,
+    "Program_Type": "Residency",
+    "Positions_Offered": 484,
+    "Total_Applicants": 1138,
+    "Positions_Matched": 402,
+    "Matched_Institution": 346,
+    "Matched_Private_Practice": 56
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Internship",
+    "Positions_Offered": 1726,
+    "Total_Applicants": 1515,
+    "Positions_Matched": 973,
+    "Matched_Institution": 390,
+    "Matched_Private_Practice": 583
+  },
+  {
+    "Year": 2023,
+    "Program_Type": "Residency",
+    "Positions_Offered": 494,
+    "Total_Applicants": 1054,
+    "Positions_Matched": 394,
+    "Matched_Institution": 338,
+    "Matched_Private_Practice": 56
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Internship",
+    "Positions_Offered": 1788,
+    "Total_Applicants": 1556,
+    "Positions_Matched": 1020,
+    "Matched_Institution": 390,
+    "Matched_Private_Practice": 630
+  },
+  {
+    "Year": 2022,
+    "Program_Type": "Residency",
+    "Positions_Offered": 503,
+    "Total_Applicants": 1075,
+    "Positions_Matched": 406,
+    "Matched_Institution": 337,
+    "Matched_Private_Practice": 69
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Internship",
+    "Positions_Offered": 1639,
+    "Total_Applicants": 1583,
+    "Positions_Matched": 1056,
+    "Matched_Institution": 356,
+    "Matched_Private_Practice": 700
+  },
+  {
+    "Year": 2021,
+    "Program_Type": "Residency",
+    "Positions_Offered": 422,
+    "Total_Applicants": 1080,
+    "Positions_Matched": 370,
+    "Matched_Institution": 318,
+    "Matched_Private_Practice": 52
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Internship",
+    "Positions_Offered": 1505,
+    "Total_Applicants": 1566,
+    "Positions_Matched": 998,
+    "Matched_Institution": 343,
+    "Matched_Private_Practice": 655
+  },
+  {
+    "Year": 2020,
+    "Program_Type": "Residency",
+    "Positions_Offered": 428,
+    "Total_Applicants": 1107,
+    "Positions_Matched": 367,
+    "Matched_Institution": 329,
+    "Matched_Private_Practice": 38
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Internship",
+    "Positions_Offered": 1461,
+    "Total_Applicants": 1509,
+    "Positions_Matched": 992,
+    "Matched_Institution": 332,
+    "Matched_Private_Practice": 660
+  },
+  {
+    "Year": 2019,
+    "Program_Type": "Residency",
+    "Positions_Offered": 428,
+    "Total_Applicants": 1142,
+    "Positions_Matched": 381,
+    "Matched_Institution": 339,
+    "Matched_Private_Practice": 42
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Internship",
+    "Positions_Offered": 1401,
+    "Total_Applicants": 1465,
+    "Positions_Matched": 940,
+    "Matched_Institution": 304,
+    "Matched_Private_Practice": 636
+  },
+  {
+    "Year": 2018,
+    "Program_Type": "Residency",
+    "Positions_Offered": 372,
+    "Total_Applicants": 1101,
+    "Positions_Matched": 338,
+    "Matched_Institution": 299,
+    "Matched_Private_Practice": 39
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Internship",
+    "Positions_Offered": 1330,
+    "Total_Applicants": 1449,
+    "Positions_Matched": 926,
+    "Matched_Institution": 306,
+    "Matched_Private_Practice": 620
+  },
+  {
+    "Year": 2017,
+    "Program_Type": "Residency",
+    "Positions_Offered": 379,
+    "Total_Applicants": 1091,
+    "Positions_Matched": 342,
+    "Matched_Institution": 296,
+    "Matched_Private_Practice": 46
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Internship",
+    "Positions_Offered": 1180,
+    "Total_Applicants": 1458,
+    "Positions_Matched": 879,
+    "Matched_Institution": 272,
+    "Matched_Private_Practice": 607
+  },
+  {
+    "Year": 2016,
+    "Program_Type": "Residency",
+    "Positions_Offered": 363,
+    "Total_Applicants": 1005,
+    "Positions_Matched": 339,
+    "Matched_Institution": 297,
+    "Matched_Private_Practice": 42
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Internship",
+    "Positions_Offered": 1050,
+    "Total_Applicants": 1547,
+    "Positions_Matched": 875,
+    "Matched_Institution": 263,
+    "Matched_Private_Practice": 612
+  },
+  {
+    "Year": 2015,
+    "Program_Type": "Residency",
+    "Positions_Offered": 347,
+    "Total_Applicants": 1020,
+    "Positions_Matched": 314,
+    "Matched_Institution": 271,
+    "Matched_Private_Practice": 43
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Internship",
+    "Positions_Offered": 1005,
+    "Total_Applicants": 1466,
+    "Positions_Matched": 819,
+    "Matched_Institution": 248,
+    "Matched_Private_Practice": 571
+  },
+  {
+    "Year": 2014,
+    "Program_Type": "Residency",
+    "Positions_Offered": 353,
+    "Total_Applicants": 1008,
+    "Positions_Matched": 311,
+    "Matched_Institution": 260,
+    "Matched_Private_Practice": 51
+  }
+]

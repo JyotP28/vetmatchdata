@@ -1,5 +1,34 @@
-import "@/styles/globals.css";
+// pages/_app.js
+import '../styles/globals.css';
+import AnimatedBackground from '../components/AnimatedBackground';
+import Footer from '../components/Footer';
+import { AnimatePresence, motion } from 'framer-motion';
 
-export default function App({ Component, pageProps }) {
-  return <Component {...pageProps} />;
+function MyApp({ Component, pageProps, router }) {
+  return (
+    // --- FIX: Added position: 'relative' to the main wrapper ---
+    <div style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh', position: 'relative' }}>
+      <AnimatedBackground />
+      <AnimatePresence mode="wait">
+        <motion.main
+          key={router.route}
+          initial="initial"
+          animate="animate"
+          exit="exit"
+          variants={{
+            initial: { opacity: 0, y: 20 },
+            animate: { opacity: 1, y: 0 },
+            exit: { opacity: 0, y: -20 },
+          }}
+          transition={{ duration: 0.4, ease: "easeOut" }}
+          style={{ flex: 1 }}
+        >
+          <Component {...pageProps} />
+        </motion.main>
+      </AnimatePresence>
+      <Footer />
+    </div>
+  );
 }
+
+export default MyApp;
