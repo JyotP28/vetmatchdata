@@ -6,10 +6,10 @@ import { AnimatePresence, motion } from 'framer-motion';
 
 function MyApp({ Component, pageProps, router }) {
   return (
-    // --- FIX: Added position: 'relative' to the main wrapper ---
     <div style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh', position: 'relative' }}>
       <AnimatedBackground />
-      <AnimatePresence mode="wait">
+      {/* FIX: Removed mode="wait" to allow for smoother asset loading during transitions */}
+      <AnimatePresence>
         <motion.main
           key={router.route}
           initial="initial"
