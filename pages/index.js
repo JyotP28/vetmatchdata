@@ -8,15 +8,23 @@ import CompetitionChart from '../components/CompetitionChart';
 import styles from '../styles/Home.module.css';
 
 export default function HomePage({ specialtyData }) {
+  // Animation variants
+  const containerVariants = { hidden: { opacity: 0 }, show: { opacity: 1, transition: { staggerChildren: 0.8 }, }, };
+  const itemVariants = { hidden: { y: 20, opacity: 0 }, show: { y: 0, opacity: 1, transition: { duration: 1.2, ease: 'easeOut' } }, };
+
   return (
     <>
       <Head>
         <title>VIRMP Visualized | VetMatchData</title> 
       </Head>
 
-      {/* The main container no longer needs its own animation props */}
-      <main className={styles.main}>
-        <div className={styles.leftColumn}>
+      <motion.main 
+        className={styles.main}
+        variants={containerVariants}
+        initial="hidden"
+        animate="show"
+      >
+        <motion.div className={styles.leftColumn} variants={itemVariants}>
           <h1 className={styles.title}>
             VIRMP Data <br />
             <span className={styles.titleVisualized}>Visualized</span>
@@ -33,17 +41,17 @@ export default function HomePage({ specialtyData }) {
               Explore the Data
             </motion.button>
           </Link>
-        </div>
+        </motion.div>
 
-        <div className={styles.rightColumn}>
+        <motion.div className={styles.rightColumn} variants={itemVariants}>
           <CompetitionChart specialtyData={specialtyData} />
-        </div>
-      </main>
+        </motion.div>
+      </motion.main>
     </>
   );
 }
 
-// getStaticProps remains the same
+// getStaticProps
 export async function getStaticProps() {
   const dataDirectory = path.join(process.cwd(), 'data');
   const filePath = path.join(dataDirectory, 'specialty_summary.json');

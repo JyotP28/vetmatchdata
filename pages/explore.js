@@ -9,9 +9,11 @@ import SchoolView from '../components/SchoolView';
 import InternshipView from '../components/InternshipView';
 import ResidencyView from '../components/ResidencyView';
 
+// Styling for our filter buttons
 const buttonStyle = { padding: '10px 20px', fontSize: '1rem', border: '1px solid #ccc', borderRadius: '8px', backgroundColor: 'white', cursor: 'pointer', margin: '0' };
 const activeButtonStyle = { ...buttonStyle, backgroundColor: '#009933', color: 'white', borderColor: '#009933' };
 
+// Animation for the view switching (tabs)
 const viewVariants = {
   hidden: { opacity: 0, y: 20 },
   enter: { opacity: 1, y: 0 },
@@ -22,15 +24,26 @@ export default function ExplorePage({ annualData, schoolData, specialtyData }) {
   const [view, setView] = useState('internship');
 
   return (
-    <div style={{ fontFamily: 'sans-serif', padding: '2rem 5%' }}>
+    // This main container is a regular div
+    <div 
+      style={{ 
+        fontFamily: 'sans-serif', 
+        padding: 'calc(1rem + env(safe-area-inset-top)) 5% 2rem 5%' 
+      }}
+    >
       <Head>
         <title>Explore the Data | VetMatchData</title>
       </Head>
-      <Link href="/" style={{ color: '#009933', textDecoration: 'none', display: 'block', marginBottom: '2rem' }}>
-        &larr; Back to Home
-      </Link>
       
-      <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
+      {/* This is the container for the top link */}
+      <div style={{ padding: '0 5% 0 5%' }}>
+        <Link href="/" style={{ color: '#009933', textDecoration: 'none', display: 'inline-block', marginBottom: '2rem' }}>
+          &larr; Back to Home
+        </Link>
+      </div>
+      
+      {/* This is the container for the filter buttons */}
+      <div style={{ textAlign: 'center', marginBottom: '3rem', padding: '0 5%' }}>
         <h2 style={{ fontSize: '2rem', fontWeight: 600 }}>What would you like to explore?</h2>
         <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: '10px' }}>
           <button style={view === 'internship' ? activeButtonStyle : buttonStyle} onClick={() => setView('internship')}>
@@ -45,20 +58,23 @@ export default function ExplorePage({ annualData, schoolData, specialtyData }) {
         </div>
       </div>
 
-      <AnimatePresence mode="wait">
-        <motion.div
-          key={view}
-          variants={viewVariants}
-          initial="hidden"
-          animate="enter"
-          exit="exit"
-          transition={{ duration: 0.3, ease: "easeOut" }}
-        >
-          {view === 'internship' && <InternshipView specialtyData={specialtyData} />}
-          {view === 'residency' && <ResidencyView specialtyData={specialtyData} />}
-          {view === 'school' && <SchoolView schoolData={schoolData} annualData={annualData} />}
-        </motion.div>
-      </AnimatePresence>
+      {/* This is the container for the animated chart views */}
+      <div style={{ padding: '0 5% 2rem 5%' }}>
+        <AnimatePresence mode="wait">
+          <motion.div
+            key={view}
+            variants={viewVariants}
+            initial="hidden"
+            animate="enter"
+            exit="exit"
+            transition={{ duration: 0.3, ease: "easeOut" }}
+          >
+            {view === 'internship' && <InternshipView specialtyData={specialtyData} />}
+            {view === 'residency' && <ResidencyView specialtyData={specialtyData} />}
+            {view === 'school' && <SchoolView schoolData={schoolData} annualData={annualData} />}
+          </motion.div>
+        </AnimatePresence>
+      </div>
     </div>
   );
 }
