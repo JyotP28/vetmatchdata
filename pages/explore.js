@@ -53,7 +53,7 @@ export default function ExplorePage({ annualData, schoolData, specialtyData }) {
             Residency Data
           </button>
           <button style={view === 'school' ? activeButtonStyle : buttonStyle} onClick={() => setView('school')}>
-            School Data
+            School Specific Data
           </button>
         </div>
       </div>
