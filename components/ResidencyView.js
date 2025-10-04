@@ -2,6 +2,7 @@
 import React, { useState, useMemo } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import styles from '../styles/Explore.module.css';
+import { event } from '../lib/gtag'; // Import the event helper
 
 const truncate = (str, n) => {
   return (str.length > n) ? str.substr(0, n - 1) + '…' : str;
@@ -31,9 +32,20 @@ export default function ResidencyView({ specialtyData }) {
     return specialtyData.filter(d => d.Program_Type === 'Residency' && d.Specialty === selectedSpecialty).map(d => ({ ...d, matchRate: d.Total_Applicants > 0 ? (d.Positions_Matched / d.Total_Applicants) * 100 : 0, })).sort((a, b) => a.Year - b.Year);
   }, [specialtyData, selectedSpecialty]);
 
+  // --- NEW: Function to handle dropdown change and send GA event ---
+  const handleSpecialtyChange = (e) => {
+    const newSpecialty = e.target.value;
+    setSelectedSpecialty(newSpecialty);
+
+    event({
+      action: 'select_residency',
+      category: 'Explore Page Filters',
+      label: newSpecialty,
+    });
+  };
+
   return (
     <div>
-      {/* --- Explanation Paragraph --- */}
       <p style={{ maxWidth: '800px', margin: '0 auto 2rem auto', padding: '1rem', backgroundColor: 'rgba(230, 240, 230, 0.5)', borderRadius: '8px', lineHeight: '1.6' }}>
         This dashboard visualizes trends for individual residency specialties. Select a specialty to see the historical trend in applicants versus positions filled. The match rate as a percentage is calculated as (Positions Matched / Total Applicants).
       </p>
@@ -41,7 +53,7 @@ export default function ResidencyView({ specialtyData }) {
       <div className={styles.controlsContainer}>
         <div className={styles.selectGroup}>
           <label htmlFor="specialty-select" className={styles.selectLabel}>Select a Residency:</label>
-          <select id="specialty-select" value={selectedSpecialty} onChange={e => setSelectedSpecialty(e.target.value)} className={styles.selectDropdown}>
+          <select id="specialty-select" value={selectedSpecialty} onChange={handleSpecialtyChange} className={styles.selectDropdown}>
             {specialtyNames.map(name => (
               <option key={name} value={name}>{truncate(name, 30)}</option>
             ))}
