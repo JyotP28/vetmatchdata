@@ -35,7 +35,7 @@ export default function ResidencyView({ specialtyData }) {
     <div>
       {/* --- Explanation Paragraph --- */}
       <p style={{ maxWidth: '800px', margin: '0 auto 2rem auto', padding: '1rem', backgroundColor: 'rgba(230, 240, 230, 0.5)', borderRadius: '8px', lineHeight: '1.6' }}>
-        This dashboard visualizes trends for individual residency specialties. Select a specialty to see the historical trend in applicants versus positions filled. The Match Rate % is calculated as (Positions Matched / Total Applicants).
+        This dashboard visualizes trends for individual residency specialties. Select a specialty to see the historical trend in applicants versus positions filled. The match rate as a percentage is calculated as (Positions Matched / Total Applicants).
       </p>
 
       <div className={styles.controlsContainer}>

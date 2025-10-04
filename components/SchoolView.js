@@ -12,7 +12,7 @@ const lineStyleProps = {
 const toggleContainerStyle = { display: 'flex', alignItems: 'center', cursor: 'pointer', userSelect: 'none' };
 const toggleLabelStyle = { marginRight: '10px', fontWeight: 'bold' };
 const switchStyle = { position: 'relative', display: 'inline-block', width: '50px', height: '24px' };
-const sliderStyle = { position: 'absolute', cursor: 'pointer', top: 0, left: 0, right: 0, bottom: 0, backgroundColor: '#ccc', transition: '.4s', borderRadius: '24px' };
+const sliderStyle = { position: 'absolute', cursor: 'pointer', top: 0, left: 0, right: 0, bottom: 0, backgroundColor: '#ffffffff', transition: '.4s', borderRadius: '24px' };
 const sliderBeforeStyle = { position: 'absolute', content: '""', height: '16px', width: '16px', left: '4px', bottom: '4px', backgroundColor: 'white', transition: '.4s', borderRadius: '50%' };
 
 export default function SchoolView({ schoolData, annualData }) { 
@@ -58,6 +58,11 @@ export default function SchoolView({ schoolData, annualData }) {
 
   return (
     <div style={{ width: '100%' }}>
+
+            <p style={{ maxWidth: '800px', margin: '0 auto 2rem auto', padding: '1rem', backgroundColor: 'rgba(230, 240, 230, 0.5)', borderRadius: '8px', lineHeight: '1.6' }}>
+              This dashboard visualizes historical trends on a school-specific basis. Total internship and residency applicants are reflective of applicants to the individual categories and summed with the number of applicants appplying to both in the same cycle. 
+            </p>
+
       <div className={styles.controlsContainer}>
         <div className={styles.selectGroup}>
           <label htmlFor="school-select" className={styles.selectLabel}>Select a School:</label>
