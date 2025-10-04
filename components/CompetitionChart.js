@@ -1,18 +1,17 @@
-// components/CompetitionChart.js
 import React from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, LabelList } from 'recharts';
 import useWindowSize from '../hooks/useWindowSize';
 
 const shamrockGreen = '#009933';
 
-// --- NEW: Helper function to shorten long text ---
+// shortens long text in dropdown menu
 const truncate = (str, n) => {
   return (str.length > n) ? str.substr(0, n - 1) + '…' : str;
 };
 
-// --- REWRITTEN: Custom component now truncates text to a single line ---
+// truncates text to a single line 
 const CustomYAxisTick = ({ x, y, payload, fontSize }) => {
-  // Truncate the text to a max of 20 characters
+  // max of 20 characters
   const truncatedText = truncate(payload.value, 20);
   return (
     <g transform={`translate(${x},${y})`}>
@@ -36,7 +35,7 @@ export default function CompetitionChart({ specialtyData }) {
   const competitionData = specialtyData
     .filter(item => item.Year === 2025 && item.Program_Type === 'Residency' && item.Positions_Offered > 0)
     .map(item => ({
-      name: item.Specialty, // No longer need to replace spaces with slashes
+      name: item.Specialty, 
       ratio: parseFloat((item.Total_Applicants / item.Positions_Offered).toFixed(2)),
       applicants: item.Total_Applicants,
       positions: item.Positions_Offered,

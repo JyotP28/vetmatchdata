@@ -1,4 +1,3 @@
-// components/SchoolView.js
 import React, { useState, useMemo } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import styles from '../styles/Explore.module.css';
@@ -16,18 +15,16 @@ const sliderStyle = { position: 'absolute', cursor: 'pointer', top: 0, left: 0, 
 const sliderBeforeStyle = { position: 'absolute', content: '""', height: '16px', width: '16px', left: '4px', bottom: '4px', backgroundColor: 'white', transition: '.4s', borderRadius: '50%' };
 
 export default function SchoolView({ schoolData, annualData }) { 
-  // --- FIX: All Hooks have been moved to the top of the component ---
   const [showAsPercentage, setShowAsPercentage] = useState(false);
   
   const schoolNames = useMemo(() => {
-    // Added a safety check `|| []` to prevent errors if schoolData is temporarily unavailable
     return [...new Set((schoolData || []).map(item => item.School_Name))].sort()
   }, [schoolData]);
   
   const [selectedSchool, setSelectedSchool] = useState(schoolNames[0]);
 
   const nationalRates = useMemo(() => {
-    if (!annualData) return []; // Safety check inside the hook
+    if (!annualData) return []; 
     const byYear = {};
     annualData.forEach(item => {
       if (!byYear[item.Year]) { byYear[item.Year] = {}; }
@@ -37,7 +34,6 @@ export default function SchoolView({ schoolData, annualData }) {
     return Object.entries(byYear).map(([year, data]) => ({ Year: parseInt(year), ...data }));
   }, [annualData]);
   
-  // --- FIX: The early return / safety check is now AFTER the hooks ---
   if (!schoolData || !annualData || schoolNames.length === 0) { 
     return <div>Loading data...</div>; 
   }

@@ -1,6 +1,5 @@
-// components/Footer.js
 import React from 'react';
-import Link from 'next/link'; // Import the Link component
+import Link from 'next/link'; 
 import SocialLinks from './SocialLinks';
 
 const footerStyle = {
@@ -15,7 +14,7 @@ const linkStyle = {
   color: '#009933',
   textDecoration: 'none',
   fontWeight: 'bold',
-  margin: '0 10px', // Add margin for spacing
+  margin: '0 10px', 
 };
 
 export default function Footer() {
@@ -30,7 +29,6 @@ export default function Footer() {
       <div style={{ marginTop: '1rem' }}>
         <SocialLinks />
         <div style={{ marginTop: '1rem' }}>
-          {/* NEW: Link to the About page */}
           <Link href="/about" style={linkStyle}>
             About the Data
           </Link>

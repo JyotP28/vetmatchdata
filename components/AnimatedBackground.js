@@ -1,7 +1,6 @@
-// components/AnimatedBackground.js
 import { motion } from 'framer-motion';
 
-// This is a single, self-contained component for one animated blob.
+// container per blob
 const Blob = ({ path1, path2, path3, path4, ...props }) => {
   return (
     <motion.div {...props}>
@@ -26,7 +25,7 @@ const Blob = ({ path1, path2, path3, path4, ...props }) => {
 export default function AnimatedBackground() {
   const shamrockGreen = '#009933';
 
-  // SVG path strings that define different blob shapes.
+  // SVG paths for the blob shapes
   const blob1_path1 = "M433.5,322.5Q413,395,348,432Q283,469,215,441Q147,413,101.5,361Q56,309,62,234.5Q68,160,119,109.5Q170,59,240.5,63Q311,67,364,111Q417,155,438,202.5Q459,250,433.5,322.5Z";
   const blob1_path2 = "M449,321Q409,392,347,433Q285,474,213.5,446.5Q142,419,114,357Q86,295,73,222.5Q60,150,113.5,103.5Q167,57,238,62Q309,67,370,109Q431,151,450,200.5Q469,250,449,321Z";
   const blob1_path3 = "M403.5,316Q398,382,336.5,411.5Q275,441,208.5,436Q142,431,99,376.5Q56,322,65,246Q74,170,116,118.5Q158,67,229,60.5Q300,54,350.5,103Q401,152,400.5,201Q400,250,403.5,316Z";
@@ -41,33 +40,33 @@ export default function AnimatedBackground() {
     <div style={{
         position: 'fixed', top: 0, left: 0, width: '100%', height: '100%', zIndex: -1
     }}>
-      {/* --- Blob 1: Top Left (Made Larger) --- */}
+      {/* Blob 1 */}
       <Blob
         path1={blob1_path1} path2={blob1_path2} path3={blob1_path3} path4={blob1_path4}
         style={{
           position: 'absolute',
-          top: '-25vh',    // Adjusted position
-          left: '-25vw',   // Adjusted position
-          width: '80vh',   // Increased size
+          top: '-25vh',    
+          left: '-25vw',   
+          width: '80vh',   
           height: '80vh',
           color: shamrockGreen,
           opacity: 0.2,
         }}
       />
-      {/* --- Blob 2: Bottom Right (Made Larger) --- */}
+      {/* Blob 2 */}
       <Blob
         path1={blob2_path1} path2={blob2_path2} path3={blob2_path3} path4={blob2_path4}
         style={{
           position: 'absolute',
-          bottom: '-25vh',  // Adjusted position
-          right: '-25vw',  // Adjusted position
-          width: '75vh',   // Increased size
+          bottom: '-25vh',  
+          right: '-25vw',  
+          width: '75vh',   
           height: '75vh',
           color: shamrockGreen,
           opacity: 0.15,
         }}
       />
-      {/* --- Blob 3: Center (New & Subtle) --- */}
+      {/* Blob 3 */}
       <Blob
         path1={blob1_path3} path2={blob2_path1} path3={blob1_path2} path4={blob2_path4}
         style={{
@@ -75,10 +74,10 @@ export default function AnimatedBackground() {
           top: '50%',
           left: '50%',
           transform: 'translate(-50%, -50%)',
-          width: '90vh',  // Very large
+          width: '90vh',  
           height: '90vh',
           color: shamrockGreen,
-          opacity: 0.04, // Very subtle
+          opacity: 0.04, 
         }}
       />
     </div>

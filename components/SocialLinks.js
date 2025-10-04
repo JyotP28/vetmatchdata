@@ -1,4 +1,3 @@
-// components/SocialLinks.js
 import React from 'react';
 import { motion } from 'framer-motion';
 
@@ -10,7 +9,7 @@ export default function SocialLinks() {
     <div style={{ display: 'flex', justifyContent: 'center', gap: '1.5rem', marginTop: '1rem' }}>
       {/* LinkedIn Icon */}
       <motion.a
-        href="https://www.linkedin.com/in/jyotpatel28/" // <-- FIX: Updated URL
+        href="https://www.linkedin.com/in/jyotpatel28/"
         target="_blank"
         rel="noopener noreferrer"
         style={{ color: neutralGray }}

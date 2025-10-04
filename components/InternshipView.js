@@ -1,8 +1,7 @@
-// components/InternshipView.js
 import React, { useState, useMemo } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import styles from '../styles/Explore.module.css';
-import { event } from '../lib/gtag'; // Import the event helper
+import { event } from '../lib/gtag'; 
 
 const truncate = (str, n) => {
   return (str.length > n) ? str.substr(0, n - 1) + '…' : str;
@@ -32,7 +31,7 @@ export default function InternshipView({ specialtyData }) {
     return specialtyData.filter(d => d.Program_Type === 'Internship' && d.Specialty === selectedSpecialty).map(d => ({ ...d, matchRate: d.Total_Applicants > 0 ? (d.Positions_Matched / d.Total_Applicants) * 100 : 0 })).sort((a, b) => a.Year - b.Year);
   }, [specialtyData, selectedSpecialty]);
 
-  // --- NEW: Function to handle dropdown change and send GA event ---
+  // handles the dropdown events to send to GA
   const handleSpecialtyChange = (e) => {
     const newSpecialty = e.target.value;
     setSelectedSpecialty(newSpecialty);
