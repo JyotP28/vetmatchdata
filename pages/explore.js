@@ -1,4 +1,3 @@
-// pages/explore.js
 import path from 'path';
 import { promises as fs } from 'fs';
 import Head from 'next/head';
@@ -9,11 +8,11 @@ import SchoolView from '../components/SchoolView';
 import InternshipView from '../components/InternshipView';
 import ResidencyView from '../components/ResidencyView';
 
-// Styling for our filter buttons
+// filter button styling
 const buttonStyle = { padding: '10px 20px', fontSize: '1rem', border: '1px solid #ccc', borderRadius: '8px', backgroundColor: 'white', cursor: 'pointer', margin: '0' };
 const activeButtonStyle = { ...buttonStyle, backgroundColor: '#009933', color: 'white', borderColor: '#009933' };
 
-// Animation for the view switching (tabs)
+// animation for tab switching
 const viewVariants = {
   hidden: { opacity: 0, y: 20 },
   enter: { opacity: 1, y: 0 },
@@ -24,7 +23,6 @@ export default function ExplorePage({ annualData, schoolData, specialtyData }) {
   const [view, setView] = useState('internship');
 
   return (
-    // This main container is a regular div
     <div 
       style={{ 
         fontFamily: 'sans-serif', 
@@ -35,14 +33,13 @@ export default function ExplorePage({ annualData, schoolData, specialtyData }) {
         <title>Explore the Data | VetMatchData</title>
       </Head>
       
-      {/* This is the container for the top link */}
       <div style={{ padding: '0 5% 0 5%' }}>
         <Link href="/" style={{ color: '#009933', textDecoration: 'none', display: 'inline-block', marginBottom: '2rem' }}>
           &larr; Back to Home
         </Link>
       </div>
       
-      {/* This is the container for the filter buttons */}
+      {/* container for the filter buttons */}
       <div style={{ textAlign: 'center', marginBottom: '3rem', padding: '0 5%' }}>
         <h2 style={{ fontSize: '2rem', fontWeight: 600 }}>What would you like to explore?</h2>
         <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: '10px' }}>
@@ -58,7 +55,7 @@ export default function ExplorePage({ annualData, schoolData, specialtyData }) {
         </div>
       </div>
 
-      {/* This is the container for the animated chart views */}
+      {/* container for the animated chart views */}
       <div style={{ padding: '0 5% 2rem 5%' }}>
         <AnimatePresence mode="wait">
           <motion.div
@@ -79,7 +76,6 @@ export default function ExplorePage({ annualData, schoolData, specialtyData }) {
   );
 }
 
-// getStaticProps function remains the same
 export async function getStaticProps() {
   const dataDirectory = path.join(process.cwd(), 'data');
   const annualFile = await fs.readFile(path.join(dataDirectory, 'annual_summary.json'), 'utf8');

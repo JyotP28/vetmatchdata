@@ -1,4 +1,3 @@
-// pages/index.js
 import path from 'path';
 import { promises as fs } from 'fs';
 import Head from 'next/head';
@@ -51,7 +50,6 @@ export default function HomePage({ specialtyData }) {
   );
 }
 
-// getStaticProps
 export async function getStaticProps() {
   const dataDirectory = path.join(process.cwd(), 'data');
   const filePath = path.join(dataDirectory, 'specialty_summary.json');

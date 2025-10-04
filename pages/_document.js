@@ -1,6 +1,6 @@
 // pages/_document.js
 import { Html, Head, Main, NextScript } from 'next/document';
-import Script from 'next/script'; // Import the Script component
+import Script from 'next/script';
 
 export default function Document() {
   return (
@@ -8,8 +8,10 @@ export default function Document() {
       <Head>
         <meta name='viewport' content='width=device-width, initial-scale=1.0, viewport-fit=cover' />
         <meta name="theme-color" content="#f4f4f9" />
+        
+        {/* --- NEW: Link to your logo.png as the favicon --- */}
+        <link rel="icon" href="/logo.png" />
 
-        {/* --- Google Analytics Scripts --- */}
         <Script
           strategy="afterInteractive"
           src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_ID}`}

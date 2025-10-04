@@ -35,7 +35,6 @@ export default function AboutPage() {
 
       <h2 style={headingStyles}>Reason for Creation</h2>
       <p>
-        {/* FIX: Replaced I'd with I&apos;d */}
         Like many other vet students, I&apos;d say that I like numbers and data in general more than the average person. Seeing the boring presentation of the match numbers, and an interest in learning how to program, I saw an opportunity to make an improvement to this niche issue that maybe a handful of other people might be facing. I wanted to see historical trends without having to just copy paste a bunch of tables, and so this became a side project of mine. I learned how to use Next.JS as the backbone and had fun learning how to design and create a website and I encourage other students to do the same. 
       </p>
 
@@ -51,7 +50,7 @@ export default function AboutPage() {
 
       <h2 style={headingStyles}>A Note on Normalization</h2>
       <p>
-        To enable year-over-year trend analysis, some specialty and program names have been standardized or &quot;normalized&quot; across different years. The VIRMP has occasionally used slightly different terminology for the same program in different years.
+        To enable historical trend analysis, some specialty and program names have been standardized or &quot;normalized&quot; across different years. The VIRMP has occasionally used slightly different terminology for the same program in different years.
       </p>
       <p>
         For example:
@@ -72,7 +71,7 @@ export default function AboutPage() {
       
       <h2 style={headingStyles}>Contact & Feedback</h2>
       <p>
-        Have a suggestion for a new chart, notice an error, or just want to connect? Feel free to reach out via email or LinkedIn.
+        Feel free to reach out to me if you have a suggestion for a new chart or notice an error?
       </p>
       <p>
         <a 
