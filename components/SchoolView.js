@@ -2,7 +2,6 @@
 import React, { useState, useMemo } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import styles from '../styles/Explore.module.css';
-import { event } from '../lib/gtag'; // Import the event helper
 
 const lineStyleProps = {
   strokeWidth: 2,
@@ -17,13 +16,18 @@ const sliderStyle = { position: 'absolute', cursor: 'pointer', top: 0, left: 0, 
 const sliderBeforeStyle = { position: 'absolute', content: '""', height: '16px', width: '16px', left: '4px', bottom: '4px', backgroundColor: 'white', transition: '.4s', borderRadius: '50%' };
 
 export default function SchoolView({ schoolData, annualData }) { 
-  if (!schoolData || !annualData) { return <div>Loading data...</div>; }
-
+  // --- FIX: All Hooks have been moved to the top of the component ---
   const [showAsPercentage, setShowAsPercentage] = useState(false);
-  const schoolNames = useMemo(() => [...new Set((schoolData || []).map(item => item.School_Name))].sort(), [schoolData]);
+  
+  const schoolNames = useMemo(() => {
+    // Added a safety check `|| []` to prevent errors if schoolData is temporarily unavailable
+    return [...new Set((schoolData || []).map(item => item.School_Name))].sort()
+  }, [schoolData]);
+  
   const [selectedSchool, setSelectedSchool] = useState(schoolNames[0]);
+
   const nationalRates = useMemo(() => {
-    if (!annualData) return [];
+    if (!annualData) return []; // Safety check inside the hook
     const byYear = {};
     annualData.forEach(item => {
       if (!byYear[item.Year]) { byYear[item.Year] = {}; }
@@ -33,6 +37,11 @@ export default function SchoolView({ schoolData, annualData }) {
     return Object.entries(byYear).map(([year, data]) => ({ Year: parseInt(year), ...data }));
   }, [annualData]);
   
+  // --- FIX: The early return / safety check is now AFTER the hooks ---
+  if (!schoolData || !annualData || schoolNames.length === 0) { 
+    return <div>Loading data...</div>; 
+  }
+
   const processedData = schoolData
     .filter(school => school.School_Name === selectedSchool)
     .map(item => {
@@ -49,18 +58,6 @@ export default function SchoolView({ schoolData, annualData }) {
     })
     .sort((a, b) => a.Year - b.Year);
 
-  // --- NEW: Function to handle dropdown change and send GA event ---
-  const handleSchoolChange = (e) => {
-    const newSchool = e.target.value;
-    setSelectedSchool(newSchool);
-
-    event({
-      action: 'select_school',
-      category: 'Explore Page Filters',
-      label: newSchool,
-    });
-  };
-
   return (
     <div style={{ width: '100%' }}>
       <p style={{ maxWidth: '800px', margin: '0 auto 2rem auto', padding: '1rem', backgroundColor: 'rgba(230, 240, 230, 0.5)', borderRadius: '8px', lineHeight: '1.6' }}>
@@ -70,7 +67,7 @@ export default function SchoolView({ schoolData, annualData }) {
       <div className={styles.controlsContainer}>
         <div className={styles.selectGroup}>
           <label htmlFor="school-select" className={styles.selectLabel}>Select a School:</label>
-          <select id="school-select" value={selectedSchool} onChange={handleSchoolChange} className={styles.selectDropdown}>
+          <select id="school-select" value={selectedSchool} onChange={e => setSelectedSchool(e.target.value)} className={styles.selectDropdown}>
             {schoolNames.map(name => (<option key={name} value={name}>{name}</option>))}
           </select>
         </div>
