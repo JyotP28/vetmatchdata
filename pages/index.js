@@ -1,3 +1,4 @@
+// pages/index.js
 import path from 'path';
 import { promises as fs } from 'fs';
 import Head from 'next/head';
@@ -14,7 +15,21 @@ export default function HomePage({ specialtyData }) {
   return (
     <>
       <Head>
-        <title>VIRMP Visualized | VetMatchData</title> 
+        <title>VetMatchData | VIRMP Data Visualized</title>
+        <link rel="icon" href="/logo.png" />
+        
+        {/* --- SEO Meta Tags --- */}
+        <meta 
+          name="description" 
+          content="An interactive visualization of historical VIRMP match data. Explore trends for internships, residencies, and school-specific statistics." 
+        />
+        <link rel="canonical" href="https://vetmatchdata.com/" />
+        {/* Open Graph Tags for social sharing */}
+        <meta property="og:title" content="VetMatchData | VIRMP Data Visualized" />
+        <meta property="og:description" content="Explore historical match trends with interactive charts, a better way than static PDFs." />
+        <meta property="og:image" content="https://vetmatchdata.com/og-image.png" />
+        <meta property="og:url" content="https://vetmatchdata.com" />
+        <meta property="og:type" content="website" />
       </Head>
 
       <motion.main 
@@ -50,6 +65,7 @@ export default function HomePage({ specialtyData }) {
   );
 }
 
+// getStaticProps
 export async function getStaticProps() {
   const dataDirectory = path.join(process.cwd(), 'data');
   const filePath = path.join(dataDirectory, 'specialty_summary.json');
