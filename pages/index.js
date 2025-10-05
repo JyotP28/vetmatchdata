@@ -1,4 +1,3 @@
-// pages/index.js
 import path from 'path';
 import { promises as fs } from 'fs';
 import Head from 'next/head';
@@ -18,7 +17,7 @@ export default function HomePage({ specialtyData }) {
         <title>VetMatchData | VIRMP Data Visualized</title>
         <link rel="icon" href="/logo.png" />
         
-        {/* --- SEO Meta Tags --- */}
+        {/* SEO meta tags */}
         <meta 
           name="description" 
           content="An interactive visualization of historical VIRMP match data. Explore trends for internships, residencies, and school-specific statistics." 

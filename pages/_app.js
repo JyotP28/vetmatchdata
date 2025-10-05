@@ -1,4 +1,3 @@
-// pages/_app.js
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import '../styles/globals.css';
@@ -18,10 +17,9 @@ function MyApp({ Component, pageProps }) {
   const router = useRouter();
 
   useEffect(() => {
-    // Listen for page changes and send a page view event
+    // listen for page changes and send a page view event
     router.events.on('routeChangeComplete', handleRouteChange);
 
-    // Unsubscribe from the event on cleanup
     return () => {
       router.events.off('routeChange-complete', handleRouteChange);
     };

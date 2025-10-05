@@ -1,8 +1,6 @@
-// pages/about.js
 import Head from 'next/head';
 import Link from 'next/link';
 
-// Basic styling for the page
 const pageStyles = {
   fontFamily: 'sans-serif',
   padding: '2rem 5%',
@@ -12,7 +10,7 @@ const pageStyles = {
 };
 
 const headingStyles = {
-  color: '#009933', // Your shamrock green theme color
+  color: '#009933', // shamrock green theme color
 };
 
 const linkStyle = {
@@ -56,7 +54,6 @@ export default function AboutPage() {
         For example:
       </p>
       <ul>
-        {/* FIX: Replaced " with &quot; */}
         <li>A program called <strong>&quot;Small Animal Medicine/Surgery&quot;</strong> in 2015 and a program called <strong>&quot;Rotating - Small Animal&quot;</strong> in 2021 are treated as the same category for the purpose of tracking long-term trends.</li>
       </ul>
       <p>
@@ -65,7 +62,6 @@ export default function AboutPage() {
       
       <h2 style={headingStyles}>Limitations</h2>
       <p>
-        {/* FIX: Replaced " with &quot; */}
         This is an independent project and is not affiliated with the VIRMP. All data is provided &quot;as-is&quot; based on the public reports, and while efforts have been made to ensure accuracy, minor transcription errors may exist.
       </p>
       
