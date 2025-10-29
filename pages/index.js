@@ -14,17 +14,17 @@ export default function HomePage({ specialtyData }) {
   return (
     <>
       <Head>
-        <title>VetMatchData | VIRMP Data Visualized</title>
+        <title>VetMatchData | Vet Match Data Visualized</title>
         <link rel="icon" href="/logo.png" />
         
         {/* SEO meta tags */}
         <meta 
           name="description" 
-          content="An interactive visualization of historical VIRMP match data. Explore trends for internships, residencies, and school-specific statistics." 
+          content="An interactive visualization of historical vet match data. Explore trends for internships, residencies, and school-specific statistics." 
         />
         <link rel="canonical" href="https://vetmatchdata.com/" />
         {/* Open Graph Tags for social sharing */}
-        <meta property="og:title" content="VetMatchData | VIRMP Data Visualized" />
+        <meta property="og:title" content="VetMatchData | Vet Match Data Data Visualized" />
         <meta property="og:description" content="Explore historical match trends with interactive charts, a better way than static PDFs." />
         <meta property="og:image" content="https://vetmatchdata.com/og-image.png" />
         <meta property="og:url" content="https://vetmatchdata.com" />
@@ -39,7 +39,7 @@ export default function HomePage({ specialtyData }) {
       >
         <motion.div className={styles.leftColumn} variants={itemVariants}>
           <h1 className={styles.title}>
-            VIRMP Data <br />
+            Match Data <br />
             <span className={styles.titleVisualized}>Visualized</span>
           </h1>
           <p className={styles.subtitle}>
