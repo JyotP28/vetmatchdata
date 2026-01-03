@@ -6,12 +6,10 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <meta name='viewport' content='width=device-width, initial-scale=1.0, viewport-fit=cover' />
         <meta name="theme-color" content="#f4f4f9" />
-        
         <link rel="icon" href="/logo.png" />
 
-        {/* --- AdSense Script --- */}
+        {/* AdSense Script for Auto Ads */}
         <Script
           id="adsense-init"
           strategy="afterInteractive"
@@ -19,6 +17,7 @@ export default function Document() {
           src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID}`}
         />
 
+        {/* Google Analytics */}
         <Script
           strategy="afterInteractive"
           src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_ID}`}

@@ -1,10 +1,10 @@
 // pages/_app.js
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
+import Head from 'next/head'; 
 import '../styles/globals.css';
 import AnimatedBackground from '../components/AnimatedBackground';
 import Footer from '../components/Footer';
-import AdBanner from '../components/AdBanner'; // Import the ad component
 import { AnimatePresence, motion } from 'framer-motion';
 
 const handleRouteChange = (url) => {
@@ -27,13 +27,20 @@ function MyApp({ Component, pageProps }) {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh', position: 'relative' }}>
+      <Head>
+        {/* Correct placement for viewport meta tag */}
+        <meta name='viewport' content='width=device-width, initial-scale=1.0, viewport-fit=cover' />
+      </Head>
+      
       <AnimatedBackground />
+      
       <main style={{ flex: 1 }}>
         <Component {...pageProps} />
       </main>
       
-      {/* Placement for your single minimal ad */}
-      <AdBanner />
+      {/* Manual AdBanner removed. 
+        Google Auto Ads will now decide where to place ads. 
+      */}
       
       <Footer />
     </div>
