@@ -9,8 +9,15 @@ export default function Document() {
         <meta name='viewport' content='width=device-width, initial-scale=1.0, viewport-fit=cover' />
         <meta name="theme-color" content="#f4f4f9" />
         
-        {/* --- NEW: Link to your logo.png as the favicon --- */}
         <link rel="icon" href="/logo.png" />
+
+        {/* --- AdSense Script --- */}
+        <Script
+          id="adsense-init"
+          strategy="afterInteractive"
+          crossOrigin="anonymous"
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID}`}
+        />
 
         <Script
           strategy="afterInteractive"

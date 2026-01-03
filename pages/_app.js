@@ -1,8 +1,10 @@
+// pages/_app.js
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import '../styles/globals.css';
 import AnimatedBackground from '../components/AnimatedBackground';
 import Footer from '../components/Footer';
+import AdBanner from '../components/AdBanner'; // Import the ad component
 import { AnimatePresence, motion } from 'framer-motion';
 
 const handleRouteChange = (url) => {
@@ -17,9 +19,7 @@ function MyApp({ Component, pageProps }) {
   const router = useRouter();
 
   useEffect(() => {
-    // listen for page changes and send a page view event
     router.events.on('routeChangeComplete', handleRouteChange);
-
     return () => {
       router.events.off('routeChange-complete', handleRouteChange);
     };
@@ -31,6 +31,10 @@ function MyApp({ Component, pageProps }) {
       <main style={{ flex: 1 }}>
         <Component {...pageProps} />
       </main>
+      
+      {/* Placement for your single minimal ad */}
+      <AdBanner />
+      
       <Footer />
     </div>
   );
